@@ -59,20 +59,29 @@
 
         /* Header */
         header {
-            background: var(--dark);
+            background: rgba(18, 18, 18, 0.85);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
             padding: 0 20px;
             position: sticky;
             top: 0;
             z-index: 100;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
         }
 
         .header-content {
             max-width: 1400px;
             margin: 0 auto;
             display: flex;
+            justify-content: space-between;
             align-items: center;
             height: 60px;
-            gap: 40px;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 30px;
         }
 
         .logo {
@@ -85,7 +94,8 @@
         }
 
         nav {
-            flex: 1;
+            display: flex;
+            align-items: center;
         }
 
         nav ul {
@@ -97,13 +107,37 @@
         nav a {
             color: var(--gray-200);
             font-weight: 500;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             text-transform: uppercase;
             transition: color 0.2s;
         }
 
         nav a:hover {
             color: var(--accent);
+        }
+
+        .header-icons {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .header-icons a {
+            color: var(--white);
+            font-size: 1.3rem;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .header-icons a:hover {
+            color: var(--accent);
+            transform: scale(1.2);
+        }
+
+        .header-icons a:active {
+            transform: scale(0.9);
         }
 
         /* Main Container */
@@ -522,16 +556,33 @@
 
     <header>
         <div class="header-content">
-            <a href="/" class="logo">SPORT999</a>
-            <nav>
-                <ul>
-                    <li><a href="/">Scores</a></li>
-                    <li><a href="#latest">Latest</a></li>
-                    <li><a href="#news">News</a></li>
-                    <li><a href="#transfers">Transfers</a></li>
-                    <li><a href="#analysis">Analysis</a></li>
-                </ul>
-            </nav>
+            <div class="header-left">
+                <a href="/" class="logo">SPORT999</a>
+                <nav>
+                    <ul>
+                        <li><a href="/">Scores</a></li>
+                        <li><a href="#latest">Latest</a></li>
+                        <li><a href="#news">News</a></li>
+                        <li><a href="#transfers">Transfers</a></li>
+                        <li><a href="#analysis">Analysis</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="header-icons">
+                <a href="#" title="Search">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="M21 21l-4.35-4.35"></path>
+                    </svg>
+                </a>
+                <a href="#" title="Menu">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </a>
+            </div>
         </div>
     </header>
 
@@ -632,9 +683,18 @@
                 const side1 = articles[1] || featured;
                 const side2 = articles[2] || featured;
 
+                const pexelsImages = [
+                    'https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800',
+                    'https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800',
+                    'https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=800',
+                    'https://images.pexels.com/photos/918798/pexels-photo-918798.jpeg?auto=compress&cs=tinysrgb&w=800',
+                    'https://images.pexels.com/photos/1618200/pexels-photo-1618200.jpeg?auto=compress&cs=tinysrgb&w=800'
+                ];
+                const getImage = (index) => pexelsImages[index % pexelsImages.length];
+
                 featuredContainer.innerHTML = `
                     <a href="articles/${featured.name}" class="featured-main">
-                        <div class="featured-image">⚽</div>
+                        <div class="featured-image" style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)),url('${getImage(0)}') center/cover"></div>
                         <div class="featured-content">
                             <div class="tag-row">
                                 <span class="tag">Football</span>
@@ -650,7 +710,7 @@
                     </a>
                     <div class="side-articles">
                         <a href="articles/${side1.name}" class="side-article">
-                            <div class="side-article-image">⚽</div>
+                            <div class="side-article-image" style="background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url('${getImage(1)}') center/cover"></div>
                             <div class="side-article-content">
                                 <div class="side-article-category">News</div>
                                 <h3 class="side-article-title">${formatTitle(side1.name)}</h3>
@@ -660,7 +720,7 @@
                             </div>
                         </a>
                         <a href="articles/${side2.name}" class="side-article">
-                            <div class="side-article-image">⚽</div>
+                            <div class="side-article-image" style="background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url('${getImage(2)}') center/cover"></div>
                             <div class="side-article-content">
                                 <div class="side-article-category">Analysis</div>
                                 <h3 class="side-article-title">${formatTitle(side2.name)}</h3>
@@ -673,13 +733,13 @@
                 `;
 
                 // Grid
-                articlesContainer.innerHTML = articles.slice(3, 9).map(article => `
+                articlesContainer.innerHTML = articles.slice(3, 9).map((article, idx) => `
                     <a href="articles/${article.name}" class="article-card">
-                        <div class="article-thumb">⚽</div>
+                        <div class="article-thumb" style="background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.5)),url('${getImage(idx + 3)}') center/cover"></div>
                         <div class="article-body">
                             <div class="article-category">Football</div>
                             <h3 class="article-title">${formatTitle(article.name)}</h3>
-                            <div class="article-meta">📅 ${formatDate(article.name)}</div>
+                            <div class="article-meta">⏱ ${formatDate(article.name)}</div>
                         </div>
                     </a>
                 `).join('') || '<div class="empty-state">More articles coming soon</div>';
