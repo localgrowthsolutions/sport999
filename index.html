@@ -928,54 +928,79 @@
     </footer>
 
     <script>
-        // Sample news data
-        const newsData = [
-            { cat: 'Football', title: 'Messi Scores Hat-trick in World Cup Qualifier', img: 'https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=600', time: '3h ago' },
-            { cat: 'Basketball', title: 'LeBron James Breaks All-Time Scoring Record', img: 'https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=600', time: '5h ago' },
-            { cat: 'Tennis', title: 'Djokovic Wins 25th Grand Slam Title', img: 'https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=600', time: '6h ago' },
-            { cat: 'MMA', title: 'UFC 300: Main Event Ends in Shocking KO', img: 'https://images.pexels.com/photos/4761352/pexels-photo-4761352.jpeg?auto=compress&cs=tinysrgb&w=600', time: '8h ago' },
-            { cat: 'F1', title: 'Verstappen Dominates Monaco Grand Prix', img: 'https://images.pexels.com/photos/12795/pexels-photo-12795.jpeg?auto=compress&cs=tinysrgb&w=600', time: '10h ago' },
-            { cat: 'Football', title: 'Premier League: Title Race Goes to Final Day', img: 'https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=600', time: '12h ago' }
-        ];
+        // Fetch articles from JSON file
+        async function fetchArticles() {
+            try {
+                const response = await fetch('/articles/articles.json');
+                const data = await response.json();
+                return data.articles;
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                return [];
+            }
+        }
 
-        const popularData = [
-            'Champions League Final: Date, Time & How to Watch',
-            'Top 10 Football Transfers of 2025',
-            'NBA Playoffs: Complete Schedule & Predictions',
-            'UFC Rankings Update: New Champion Crowned',
-            'Wimbledon 2025: Everything You Need to Know'
-        ];
+        // Calculate time ago from date
+        function timeAgo(dateString) {
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffMs = now - date;
+            const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+            const diffDays = Math.floor(diffHours / 24);
+
+            if (diffDays > 0) return `${diffDays}d ago`;
+            if (diffHours > 0) return `${diffHours}h ago`;
+            return 'Just now';
+        }
 
         // Render news cards
-        function renderNews(container, data) {
+        function renderNews(container, articles) {
             const grid = document.getElementById(container);
-            grid.innerHTML = data.map(item => `
-                <a href="#" class="news-card">
-                    <div class="news-thumb"><img src="${item.img}" alt="${item.title}"></div>
+            if (!grid) return;
+
+            grid.innerHTML = articles.map(article => `
+                <a href="${article.url || '#'}" class="news-card">
+                    <div class="news-thumb"><img src="${article.image}" alt="${article.title}"></div>
                     <div class="news-content">
-                        <div class="news-cat">${item.cat}</div>
-                        <h3 class="news-title">${item.title}</h3>
-                        <div class="news-meta">⏱ ${item.time}</div>
+                        <div class="news-cat">${article.category.toUpperCase()}</div>
+                        <h3 class="news-title">${article.title}</h3>
+                        <div class="news-meta">⏱ ${timeAgo(article.date)}</div>
                     </div>
                 </a>
             `).join('');
         }
 
-        // Render popular list
-        function renderPopular() {
+        // Render popular list (latest articles)
+        function renderPopular(articles) {
             const list = document.getElementById('popular-list');
-            list.innerHTML = popularData.map((title, i) => `
-                <a href="#" class="popular-item">
+            if (!list) return;
+
+            // Take top 5 latest articles
+            const top5 = articles.slice(0, 5);
+
+            list.innerHTML = top5.map((article, i) => `
+                <a href="${article.url || '#'}" class="popular-item">
                     <span class="popular-num">${i + 1}</span>
-                    <span class="popular-title">${title}</span>
+                    <span class="popular-title">${article.title}</span>
                 </a>
             `).join('');
         }
 
         // Initialize
-        renderNews('news-grid', newsData);
-        renderNews('trending-grid', newsData.slice().reverse());
-        renderPopular();
+        async function init() {
+            const articles = await fetchArticles();
+
+            if (articles.length > 0) {
+                // Sort by date (newest first) for news grid
+                const sortedByDate = [...articles].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+                renderNews('news-grid', sortedByDate);
+                renderNews('trending-grid', sortedByDate);
+                renderPopular(articles);
+            }
+        }
+
+        init();
 
         // Search Toggle
         function toggleSearch() {
