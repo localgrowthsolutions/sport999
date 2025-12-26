@@ -2,63 +2,83 @@
     "articles": [
         {
             "id": 1,
-            "title": "Champions League Final: Epic Showdown Between Real Madrid and Manchester City",
+            "title": "The Unbearable Contrast: From Palm Beach Celebrations to a Montenegrin Abyss",
             "category": "football",
             "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "The biggest match of the year is here. Real Madrid faces Manchester City in what promises to be an unforgettable final.",
-            "date": "2025-12-26",
+            "excerpt": "The professional sports landscape often presents itself as a flawless tapestry of triumph and tragedy.",
+            "date": "2025-12-25",
             "author": "Sport999 Team",
-            "url": "#"
+            "url": "/articles/article-1766617685394.html"
         },
         {
             "id": 2,
-            "title": "Premier League: Title Race Goes to Final Day",
+            "title": "Breaking Football News",
             "category": "football",
             "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Three teams separated by just two points heading into the final matchday of the season.",
+            "excerpt": "Latest updates from the world of football.",
             "date": "2025-12-25",
             "author": "Sport999 Team",
-            "url": "#"
+            "url": "/articles/article-1766620524001.html"
         },
         {
             "id": 3,
-            "title": "Messi Scores Hat-trick in World Cup Qualifier",
+            "title": "Football Analysis Report",
             "category": "football",
             "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Lionel Messi continues to defy age with a stunning performance for Argentina.",
-            "date": "2025-12-24",
+            "excerpt": "In-depth analysis of recent football events.",
+            "date": "2025-12-25",
             "author": "Sport999 Team",
-            "url": "#"
+            "url": "/articles/article-1766620653340.html"
         },
         {
             "id": 4,
-            "title": "Transfer News: Top 10 Football Transfers of 2025",
+            "title": "Transfer Market Updates",
             "category": "football",
             "image": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "A comprehensive look at the biggest moves shaping the football landscape this year.",
-            "date": "2025-12-23",
+            "excerpt": "The latest transfer news and rumors from top leagues.",
+            "date": "2025-12-25",
             "author": "Sport999 Team",
-            "url": "#"
+            "url": "/articles/article-1766621589470.html"
         },
         {
             "id": 5,
-            "title": "El Clasico Preview: Real Madrid vs Barcelona",
+            "title": "Champions League Highlights",
             "category": "football",
             "image": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "The greatest rivalry in football returns. Everything you need to know before kickoff.",
-            "date": "2025-12-22",
+            "excerpt": "All the action from the latest Champions League matches.",
+            "date": "2025-12-26",
             "author": "Sport999 Team",
-            "url": "#"
+            "url": "/articles/article-1766678043937.html"
         },
         {
             "id": 6,
-            "title": "Ballon d'Or 2025: Candidates and Predictions",
+            "title": "Premier League Week Review",
             "category": "football",
             "image": "https://images.pexels.com/photos/3148452/pexels-photo-3148452.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Who will win the most prestigious individual award in football this year?",
-            "date": "2025-12-21",
+            "excerpt": "Complete review of this week's Premier League action.",
+            "date": "2025-12-26",
             "author": "Sport999 Team",
-            "url": "#"
+            "url": "/articles/article-1766715463589.html"
+        },
+        {
+            "id": 7,
+            "title": "La Liga Match Report",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "Match reports from the Spanish top flight.",
+            "date": "2025-12-26",
+            "author": "Sport999 Team",
+            "url": "/articles/article-1766723868747.html"
+        },
+        {
+            "id": 8,
+            "title": "World Cup Qualifiers Update",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "Latest news from World Cup qualifying matches.",
+            "date": "2025-12-26",
+            "author": "Sport999 Team",
+            "url": "/articles/news-1766715969006.html"
         }
     ]
 }
