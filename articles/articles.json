@@ -1,0 +1,64 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Champions League Final: Epic Showdown Between Real Madrid and Manchester City",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "The biggest match of the year is here. Real Madrid faces Manchester City in what promises to be an unforgettable final.",
+            "date": "2025-12-26",
+            "author": "Sport999 Team",
+            "url": "#"
+        },
+        {
+            "id": 2,
+            "title": "Premier League: Title Race Goes to Final Day",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "Three teams separated by just two points heading into the final matchday of the season.",
+            "date": "2025-12-25",
+            "author": "Sport999 Team",
+            "url": "#"
+        },
+        {
+            "id": 3,
+            "title": "Messi Scores Hat-trick in World Cup Qualifier",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "Lionel Messi continues to defy age with a stunning performance for Argentina.",
+            "date": "2025-12-24",
+            "author": "Sport999 Team",
+            "url": "#"
+        },
+        {
+            "id": 4,
+            "title": "Transfer News: Top 10 Football Transfers of 2025",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "A comprehensive look at the biggest moves shaping the football landscape this year.",
+            "date": "2025-12-23",
+            "author": "Sport999 Team",
+            "url": "#"
+        },
+        {
+            "id": 5,
+            "title": "El Clasico Preview: Real Madrid vs Barcelona",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "The greatest rivalry in football returns. Everything you need to know before kickoff.",
+            "date": "2025-12-22",
+            "author": "Sport999 Team",
+            "url": "#"
+        },
+        {
+            "id": 6,
+            "title": "Ballon d'Or 2025: Candidates and Predictions",
+            "category": "football",
+            "image": "https://images.pexels.com/photos/3148452/pexels-photo-3148452.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "excerpt": "Who will win the most prestigious individual award in football this year?",
+            "date": "2025-12-21",
+            "author": "Sport999 Team",
+            "url": "#"
+        }
+    ]
+}
