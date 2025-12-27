@@ -931,78 +931,18 @@
         const GITHUB_REPO = 'localgrowthsolutions/sport999';
         const ARTICLES_PATH = 'articles';
 
-        // Fetch article list from GitHub API
-        async function fetchArticleList() {
+        // Fetch articles from articles.json
+        async function fetchArticles() {
             try {
-                const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${ARTICLES_PATH}`);
-                const files = await response.json();
+                const response = await fetch('/articles/articles.json?t=' + Date.now());
+                if (!response.ok) throw new Error('Failed to fetch articles');
 
-                // Filter only article HTML files
-                return files.filter(file =>
-                    file.name.endsWith('.html') &&
-                    (file.name.startsWith('article-') || file.name.startsWith('news-'))
-                );
+                const data = await response.json();
+                return data.articles || [];
             } catch (error) {
-                console.error('Error fetching article list:', error);
+                console.error('Error fetching articles:', error);
                 return [];
             }
-        }
-
-        // Extract metadata from article HTML
-        async function fetchArticleMetadata(articleUrl) {
-            try {
-                const response = await fetch(articleUrl);
-                const html = await response.text();
-
-                // Parse HTML
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(html, 'text/html');
-
-                // Extract title
-                const title = doc.querySelector('h1')?.textContent ||
-                    doc.querySelector('title')?.textContent || 'Untitled';
-
-                // Extract image from og:image or first img
-                const ogImage = doc.querySelector('meta[property="og:image"]')?.content;
-                const firstImg = doc.querySelector('img')?.src;
-                const image = ogImage || firstImg || 'https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800';
-
-                return { title: title.trim(), image };
-            } catch (error) {
-                console.error('Error fetching article metadata:', error);
-                return { title: 'Article', image: 'https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800' };
-            }
-        }
-
-        // Extract date from filename timestamp
-        function extractDateFromFilename(filename) {
-            const match = filename.match(/\d{13}/);
-            if (match) {
-                return new Date(parseInt(match[0]));
-            }
-            return new Date();
-        }
-
-        // Fetch all articles with metadata
-        async function fetchArticles() {
-            const articleFiles = await fetchArticleList();
-
-            const articles = await Promise.all(articleFiles.map(async (file) => {
-                const articlePath = `/articles/${file.name}`;
-                const metadata = await fetchArticleMetadata(articlePath);
-                const date = extractDateFromFilename(file.name);
-
-                return {
-                    title: metadata.title,
-                    image: metadata.image,
-                    category: 'football',
-                    date: date.toISOString().split('T')[0],
-                    url: articlePath
-                };
-            }));
-
-            // Sort by date (newest first)
-            return articles.sort((a, b) => new Date(b.date) - new Date(a.date));
         }
 
         // Calculate time ago from date
