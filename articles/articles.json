@@ -1,84 +1,14 @@
 {
-    "articles": [
-        {
-            "id": 1,
-            "title": "The Unbearable Contrast: From Palm Beach Celebrations to a Montenegrin Abyss",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "The professional sports landscape often presents itself as a flawless tapestry of triumph and tragedy.",
-            "date": "2025-12-25",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766617685394.html"
-        },
-        {
-            "id": 2,
-            "title": "Breaking Football News",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Latest updates from the world of football.",
-            "date": "2025-12-25",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766620524001.html"
-        },
-        {
-            "id": 3,
-            "title": "Football Analysis Report",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "In-depth analysis of recent football events.",
-            "date": "2025-12-25",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766620653340.html"
-        },
-        {
-            "id": 4,
-            "title": "Transfer Market Updates",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "The latest transfer news and rumors from top leagues.",
-            "date": "2025-12-25",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766621589470.html"
-        },
-        {
-            "id": 5,
-            "title": "Champions League Highlights",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "All the action from the latest Champions League matches.",
-            "date": "2025-12-26",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766678043937.html"
-        },
-        {
-            "id": 6,
-            "title": "Premier League Week Review",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/3148452/pexels-photo-3148452.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Complete review of this week's Premier League action.",
-            "date": "2025-12-26",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766715463589.html"
-        },
-        {
-            "id": 7,
-            "title": "La Liga Match Report",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Match reports from the Spanish top flight.",
-            "date": "2025-12-26",
-            "author": "Sport999 Team",
-            "url": "/articles/article-1766723868747.html"
-        },
-        {
-            "id": 8,
-            "title": "World Cup Qualifiers Update",
-            "category": "football",
-            "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800",
-            "excerpt": "Latest news from World Cup qualifying matches.",
-            "date": "2025-12-26",
-            "author": "Sport999 Team",
-            "url": "/articles/news-1766715969006.html"
-        }
-    ]
+  "articles": [
+    {
+      "id": 1,
+      "title": "The Impossible Truth Why Thomas Mller Proved The Messi Vs Ro",
+      "category": "exclusive",
+      "image": "https://media.zenfs.com/en/the_guardian_765/b46ca86efc87b5b61598f6d94ee20a2e",
+      "excerpt": "The question has plagued football for a generation. It’s a debate that has dominated pub arguments, ...",
+      "date": "2025-12-27",
+      "author": "Sport999 Team",
+      "url": "/articles/the-impossible-truth-why-thomas-mller-proved-the-messi-vs-ro.html"
+    }
+  ]
 }
