@@ -1,19 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
+<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sport999 - Your Premier Sports News Source</title>
-    <meta name="description"
-        content="Sport999 - Breaking sports news, live scores, transfers, and analysis for Football, Basketball, Tennis, MMA, and more.">
+    <meta name="description" content="Sport999 - Breaking sports news, live scores, transfers, and analysis for Football, Basketball, Tennis, MMA, and more.">
     <meta property="og:title" content="Sport999 - Your Premier Sports News Source">
     <meta property="og:description" content="Breaking sports news, live scores, transfers, and analysis.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sport999.online">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Playfair+Display:wght@700;900&amp;display=swap" rel="stylesheet">
     <style>
         :root {
             --primary: #0d4a2e;
@@ -371,56 +366,21 @@
             transition: all 0.3s;
         }
 
-        .cat-item:nth-child(1) {
-            animation-delay: 0s;
-        }
-
-        .cat-item:nth-child(2) {
-            animation-delay: 0.3s;
-        }
-
-        .cat-item:nth-child(3) {
-            animation-delay: 0.6s;
-        }
-
-        .cat-item:nth-child(4) {
-            animation-delay: 0.9s;
-        }
-
-        .cat-item:nth-child(5) {
-            animation-delay: 1.2s;
-        }
-
-        .cat-item:nth-child(6) {
-            animation-delay: 1.5s;
-        }
-
-        .cat-item:nth-child(7) {
-            animation-delay: 1.8s;
-        }
-
-        .cat-item:nth-child(8) {
-            animation-delay: 2.1s;
-        }
-
-        .cat-item:nth-child(9) {
-            animation-delay: 2.4s;
-        }
-
-        .cat-item:nth-child(10) {
-            animation-delay: 2.7s;
-        }
+        /* Category animation delays omitted for brevity if needed but keeping for accuracy */
+        .cat-item:nth-child(1) { animation-delay: 0s; }
+        .cat-item:nth-child(2) { animation-delay: 0.3s; }
+        .cat-item:nth-child(3) { animation-delay: 0.6s; }
+        .cat-item:nth-child(4) { animation-delay: 0.9s; }
+        .cat-item:nth-child(5) { animation-delay: 1.2s; }
+        .cat-item:nth-child(6) { animation-delay: 1.5s; }
+        .cat-item:nth-child(7) { animation-delay: 1.8s; }
+        .cat-item:nth-child(8) { animation-delay: 2.1s; }
+        .cat-item:nth-child(9) { animation-delay: 2.4s; }
+        .cat-item:nth-child(10) { animation-delay: 2.7s; }
 
         @keyframes float {
-
-            0%,
-            100% {
-                transform: translateY(0);
-            }
-
-            50% {
-                transform: translateY(-5px);
-            }
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
         }
 
         .cat-item:hover {
@@ -449,277 +409,66 @@
         }
 
         @keyframes pulse-green {
-
-            0%,
-            100% {
-                opacity: 0.3;
-            }
-
-            50% {
-                opacity: 1;
-            }
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
         }
-
 
         /* News Grid */
-        .news-section {
-            padding: 50px 0;
-        }
-
-        .section-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 30px;
-        }
-
-        .section-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.8rem;
-        }
-
-        .view-all {
-            color: var(--accent);
-            font-weight: 600;
-        }
-
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 25px;
-        }
-
-        .news-card {
-            background: #041109;
-            border-radius: 12px;
-            overflow: hidden;
-            transition: transform 0.3s, box-shadow 0.3s;
-            border: 1px solid rgba(0, 200, 83, 0.1);
-        }
-
-        .news-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-        }
-
-        .news-thumb {
-            height: 200px;
-            overflow: hidden;
-        }
-
-        .news-thumb img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            transition: transform 0.3s;
-        }
-
-        .news-card:hover .news-thumb img {
-            transform: scale(1.05);
-        }
-
-        .news-content {
-            padding: 20px;
-        }
-
-        .news-cat {
-            color: var(--accent);
-            font-size: 0.8rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            margin-bottom: 10px;
-        }
-
-        .news-title {
-            font-size: 1.1rem;
-            font-weight: 700;
-            margin-bottom: 10px;
-            line-height: 1.4;
-        }
-
-        .news-meta {
-            color: var(--text-muted);
-            font-size: 0.85rem;
-        }
+        .news-section { padding: 50px 0; }
+        .section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; }
+        .section-title { font-family: 'Playfair Display', serif; font-size: 1.8rem; }
+        .view-all { color: var(--accent); font-weight: 600; }
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; }
+        .news-card { background: #041109; border-radius: 12px; overflow: hidden; transition: transform 0.3s, box-shadow 0.3s; border: 1px solid rgba(0, 200, 83, 0.1); }
+        .news-card:hover { transform: translateY(-5px); box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3); }
+        .news-thumb { height: 200px; overflow: hidden; }
+        .news-thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
+        .news-card:hover .news-thumb img { transform: scale(1.05); }
+        .news-content { padding: 20px; }
+        .news-cat { color: var(--accent); font-size: 0.8rem; font-weight: 700; text-transform: uppercase; margin-bottom: 10px; }
+        .news-title { font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4; }
+        .news-meta { color: var(--text-muted); font-size: 0.85rem; }
 
         /* Popular Sidebar */
-        .main-content {
-            display: grid;
-            grid-template-columns: 2fr 1fr;
-            gap: 40px;
-            padding: 50px 0;
-        }
-
-        .sidebar {
-            background: #041109;
-            border-radius: 16px;
-            padding: 25px;
-            height: fit-content;
-            position: sticky;
-            top: 100px;
-        }
-
-        .sidebar-title {
-            font-size: 1.2rem;
-            font-weight: 700;
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .popular-item {
-            display: flex;
-            gap: 15px;
-            padding: 15px 0;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .popular-item:last-child {
-            border-bottom: none;
-        }
-
-        .popular-num {
-            font-size: 2rem;
-            font-weight: 800;
-            color: var(--accent);
-            line-height: 1;
-        }
-
-        .popular-title {
-            font-weight: 600;
-            font-size: 0.95rem;
-            line-height: 1.4;
-        }
+        .main-content { display: grid; grid-template-columns: 2fr 1fr; gap: 40px; padding: 50px 0; }
+        .sidebar { background: #041109; border-radius: 16px; padding: 25px; height: fit-content; position: sticky; top: 100px; }
+        .sidebar-title { font-size: 1.2rem; font-weight: 700; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; }
+        .popular-item { display: flex; gap: 15px; padding: 15px 0; border-bottom: 1px solid var(--border); }
+        .popular-item:last-child { border-bottom: none; }
+        .popular-num { font-size: 2rem; font-weight: 800; color: var(--accent); line-height: 1; }
+        .popular-title { font-weight: 600; font-size: 0.95rem; line-height: 1.4; }
 
         /* Footer */
-        footer {
-            background: #041109;
-            border-top: 4px solid var(--accent);
-            padding: 60px 0 30px;
-        }
-
-        .footer-grid {
-            display: grid;
-            grid-template-columns: 2fr 1fr 1fr 1fr;
-            gap: 40px;
-            margin-bottom: 40px;
-        }
-
-        .footer-logo {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.8rem;
-            font-weight: 900;
-            color: var(--accent);
-            margin-bottom: 15px;
-        }
-
-        .footer-desc {
-            color: var(--text-muted);
-            font-size: 0.95rem;
-            margin-bottom: 20px;
-        }
-
-        .social-links {
-            display: flex;
-            gap: 10px;
-        }
-
-        .social-link {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background: var(--card);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: background 0.3s;
-        }
-
-        .social-link:hover {
-            background: var(--accent);
-        }
-
-        .footer-title {
-            font-weight: 700;
-            margin-bottom: 20px;
-            color: var(--text);
-        }
-
-        .footer-links {
-            list-style: none;
-        }
-
-        .footer-links li {
-            margin-bottom: 12px;
-        }
-
-        .footer-links a {
-            color: var(--text-muted);
-            transition: color 0.3s;
-        }
-
-        .footer-links a:hover {
-            color: var(--accent);
-        }
-
-        .footer-bottom {
-            border-top: 1px solid var(--border);
-            padding-top: 30px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-        }
+        footer { background: #041109; border-top: 4px solid var(--accent); padding: 60px 0 30px; }
+        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
+        .footer-logo { font-family: 'Playfair Display', serif; font-size: 1.8rem; font-weight: 900; color: var(--accent); margin-bottom: 15px; }
+        .footer-desc { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 20px; }
+        .social-links { display: flex; gap: 10px; }
+        .social-link { width: 40px; height: 40px; border-radius: 50%; background: var(--card); display: flex; align-items: center; justify-content: center; transition: background 0.3s; }
+        .social-link:hover { background: var(--accent); }
+        .footer-title { font-weight: 700; margin-bottom: 20px; color: var(--text); }
+        .footer-links { list-style: none; }
+        .footer-links li { margin-bottom: 12px; }
+        .footer-links a { color: var(--text-muted); transition: color 0.3s; }
+        .footer-links a:hover { color: var(--accent); }
+        .footer-bottom { border-top: 1px solid var(--border); padding-top: 30px; display: flex; justify-content: space-between; align-items: center; color: var(--text-muted); font-size: 0.9rem; }
 
         /* Responsive */
         @media (max-width: 992px) {
-            .hero-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .hero-main {
-                height: 400px;
-            }
-
-            .hero-side {
-                flex-direction: row;
-            }
-
-            .side-card {
-                height: 200px;
-            }
-
-            .main-content {
-                grid-template-columns: 1fr;
-            }
-
-            .footer-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            nav ul {
-                display: none;
-            }
+            .hero-grid { grid-template-columns: 1fr; }
+            .hero-main { height: 400px; }
+            .hero-side { flex-direction: row; }
+            .side-card { height: 200px; }
+            .main-content { grid-template-columns: 1fr; }
+            .footer-grid { grid-template-columns: repeat(2, 1fr); }
+            nav ul { display: none; }
         }
 
         @media (max-width: 576px) {
-            .hero-side {
-                flex-direction: column;
-            }
-
-            .footer-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .hero-title {
-                font-size: 1.8rem;
-            }
-
-            .breaking-news span:last-child {
-                display: none;
-            }
+            .hero-side { flex-direction: column; }
+            .footer-grid { grid-template-columns: 1fr; }
+            .hero-title { font-size: 1.8rem; }
+            .breaking-news span:last-child { display: none; }
         }
     </style>
 </head>
@@ -731,10 +480,8 @@
             <div class="container">
                 <div class="breaking-news">
                     <span class="breaking-tag">LIVE</span>
-                    <span><svg style="display:inline;vertical-align:middle;margin-right:5px" width="16" height="16"
-                            viewBox="0 0 24 24" fill="#FFD700">
-                            <path
-                                d="M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2v1c0 2.55 1.92 4.63 4.39 4.94.63 1.5 1.98 2.63 3.61 2.96V19H7v2h10v-2h-4v-3.1c1.63-.33 2.98-1.46 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z" />
+                    <span><svg style="display:inline;vertical-align:middle;margin-right:5px" width="16" height="16" viewBox="0 0 24 24" fill="#FFD700">
+                            <path d="M19 5h-2V3H7v2H5c-1.1 0-2 .9-2 2v1c0 2.55 1.92 4.63 4.39 4.94.63 1.5 1.98 2.63 3.61 2.96V19H7v2h10v-2h-4v-3.1c1.63-.33 2.98-1.46 3.61-2.96C19.08 12.63 21 10.55 21 8V7c0-1.1-.9-2-2-2zM5 8V7h2v3.82C5.84 10.4 5 9.3 5 8zm14 0c0 1.3-.84 2.4-2 2.82V7h2v1z"></path>
                         </svg> Champions League Final Tonight | Premier League Transfer News</span>
                 </div>
                 <div>December 25, 2025</div>
@@ -767,7 +514,7 @@
     <div class="search-overlay" id="searchOverlay">
         <span class="search-close" onclick="toggleSearch()">✕</span>
         <div class="search-container">
-            <input type="text" class="search-input" placeholder="Search for news, sports, teams..." autofocus>
+            <input type="text" class="search-input" placeholder="Search for news, sports, teams..." autofocus="">
         </div>
     </div>
 
@@ -776,8 +523,7 @@
         <div class="container">
             <div class="hero-grid">
                 <a href="#" class="hero-main">
-                    <img src="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1200"
-                        alt="Featured Story">
+                    <img src="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200" alt="Featured Story">
                     <div class="hero-overlay">
                         <span class="category-tag">Football</span>
                         <h1 class="hero-title">Champions League: Epic Final Showdown Between Real Madrid and Manchester
@@ -787,16 +533,14 @@
                 </a>
                 <div class="hero-side">
                     <a href="#" class="side-card">
-                        <img src="https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=800"
-                            alt="Basketball">
+                        <img src="https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Basketball">
                         <div class="side-overlay">
                             <span class="category-tag">Basketball</span>
                             <h3 class="side-title">NBA Finals: Lakers vs Celtics Game 7 Preview</h3>
                         </div>
                     </a>
                     <a href="#" class="side-card">
-                        <img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=800"
-                            alt="Tennis">
+                        <img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Tennis">
                         <div class="side-overlay">
                             <span class="category-tag">Tennis</span>
                             <h3 class="side-title">Wimbledon 2025: New Champion Crowned</h3>
@@ -849,10 +593,8 @@
             </div>
         </div>
         <aside class="sidebar">
-            <h3 class="sidebar-title"><svg style="display:inline;vertical-align:middle;margin-right:8px" width="20"
-                    height="20" viewBox="0 0 24 24" fill="#ff5722">
-                    <path
-                        d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z" />
+            <h3 class="sidebar-title"><svg style="display:inline;vertical-align:middle;margin-right:8px" width="20" height="20" viewBox="0 0 24 24" fill="#ff5722">
+                    <path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"></path>
                 </svg>Popular</h3>
             <div id="popular-list">
                 <!-- Dynamic content will be loaded here -->
@@ -869,25 +611,17 @@
                     <p class="footer-desc">Your premier destination for breaking sports news, live scores, transfer
                         updates, and in-depth analysis. Stay informed, stay ahead.</p>
                     <div class="social-links">
-                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24"
-                                fill="currentColor">
-                                <path
-                                    d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
+                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path>
                             </svg></a>
-                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24"
-                                fill="currentColor">
-                                <path
-                                    d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
                             </svg></a>
-                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24"
-                                fill="currentColor">
-                                <path
-                                    d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path>
                             </svg></a>
-                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24"
-                                fill="currentColor">
-                                <path
-                                    d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                        <a href="#" class="social-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"></path>
                             </svg></a>
                     </div>
                 </div>
@@ -1024,6 +758,4 @@
             }
         });
     </script>
-</body>
-
-</html>
+</body></html>
