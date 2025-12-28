@@ -2,45 +2,13 @@
   "articles": [
     {
       "id": 1,
-      "title": "THE MOLINEUX HEIST: Why Diogo Jota’s Cold-Blooded Betrayal Proves Arne Slot Has ",
+      "title": "Breaking News",
       "category": "exclusive",
-      "image": "https://phantom.estaticos-marca.com/42ca178aed9ddaaed32ab57c0011d33f/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/27/17668583145874.jpg",
-      "excerpt": "How much does loyalty cost in the modern game? For Wolverhampton Wanderers, the price tag was exactl...",
+      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251227_WST_612368_lionel-messi-inter-miami-23.webp&width=1200&height=740",
+      "excerpt": "Breaking News - Latest football news and analysis from Sport999...",
       "date": "2025-12-28",
       "author": "Sport999 Team",
-      "url": "/articles/the-molineux-heist-why-diogo-jotas-cold-blooded-be-1766947946387.html"
-    },
-    {
-  "articles": [
-    {
-      "id": 1,
-      "title": "Test Article 1",
-      "category": "exclusive",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "This is test article 1...",
-      "date": "2025-12-27",
-      "author": "Sport999 Team",
-      "url": "/articles/test-1.html"
-    },
-    {
-      "id": 2,
-      "title": "Test Article 2", 
-      "category": "transfer news",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "This is test article 2...",
-      "date": "2025-12-26",
-      "author": "Sport999 Team",
-      "url": "/articles/test-2.html"
-    },
-    {
-      "id": 3,
-      "title": "Test Article 3",
-      "category": "match report",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "This is test article 3...",
-      "date": "2025-12-25",
-      "author": "Sport999 Team",
-      "url": "/articles/test-3.html"
+      "url": "/articles/breaking-news-1766962284608.html"
     }
   ]
 }
