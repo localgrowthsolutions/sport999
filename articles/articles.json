@@ -9,6 +9,36 @@
       "date": "2025-12-28",
       "author": "Sport999 Team",
       "url": "/articles/the-molineux-heist-why-diogo-jotas-cold-blooded-be-1766947946387.html"
-    }
-  ]
+        },
+        {
+            "id": 2,
+            "title": "Transfer Window Chaos: Manchester United's Shocking £100M Bid",
+            "category": "transfer news",
+            "image": "https://source.unsplash.com/1600x900/?football+transfer",
+            "excerpt": "In a stunning turn of events, Manchester United have submitted a record-breaking offer...",
+            "date": "2025-12-27",
+            "author": "Sport999 Team",
+            "url": "/articles/transfer-window-chaos-1766892600000.html"
+        },
+        {
+            "id": 3,
+            "title": "Premier League Title Race: Liverpool's Tactical Masterclass",
+            "category": "match report",
+            "image": "https://source.unsplash.com/1600x900/?football+match",
+            "excerpt": "Liverpool's victory wasn't just a win – it was a statement of intent...",
+            "date": "2025-12-26",
+            "author": "Sport999 Team",
+            "url": "/articles/premier-league-title-race-1766892590000.html"
+        },
+        {
+            "id": 4,
+            "title": "Injury Crisis Deepens: Chelsea's Defensive Nightmare",
+            "category": "injury update",
+            "image": "https://source.unsplash.com/1600x900/?football+injury",
+            "excerpt": "Chelsea face a mounting crisis as three key defenders ruled out for months...",
+            "date": "2025-12-25",
+            "author": "Sport999 Team",
+            "url": "/articles/injury-crisis-deepens-1766892580000.html"
+        }
+    ]
 }
