@@ -1,36 +1,34 @@
+{
   "articles": [
     {
       "id": 1,
-      "title": "THE MOLINEUX HEIST: Why Diogo Jota’s Cold-Blooded Betrayal Proves Arne Slot Has ",
-      "title": "Breaking News",
+      "title": "THE MOLINEUX HEIST: Why Diogo Jota's Cold-Blooded Betrayal Proves Arne Slot Has",
       "category": "exclusive",
       "image": "https://phantom.estaticos-marca.com/42ca178aed9ddaaed32ab57c0011d33f/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/27/17668583145874.jpg",
       "excerpt": "How much does loyalty cost in the modern game? For Wolverhampton Wanderers, the price tag was exactl...",
-      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251227_WST_612368_lionel-messi-inter-miami-23.webp&width=1200&height=740",
-      "excerpt": "Breaking News - Latest football news and analysis from Sport999...",
       "date": "2025-12-28",
       "author": "Sport999 Team",
-      "url": "articles/the-molineux-heist-why-diogo-jotas-cold-blooded-be-1766947946300.html"
+      "url": "/articles/the-molineux-heist-why-diogo-jotas-cold-blooded-be-1766947946300.html"
     },
     {
-      "id": 4,
-      "title": "THE MESSI PARALYSIS: Why Inter Miami’s \"Deity Complex\" Is Risking a Tactical Col",
+      "id": 2,
+      "title": "THE MESSI PARALYSIS: Why Inter Miami's \"Deity Complex\" Is Risking a Tactical Col",
       "category": "exclusive",
       "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251227_WST_612368_lionel-messi-inter-miami-23.webp&width=1200&height=740",
-      "excerpt": "Can a footballer be too good for his own dressing room? It sounds like a pub-bore’s hypothetical, bu...",
+      "excerpt": "Can a footballer be too good for his own dressing room? It sounds like a pub-bore's hypothetical, bu...",
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-messi-paralysis-why-inter-miamis-deity-complex-1766968880910.html"
     },
     {
-     "id": 5,
-      "title": "The Great Canadian Tactical Heist: Why Winnipeg’s Grassroots Revolution is a Mid",
+      "id": 3,
+      "title": "The Great Canadian Tactical Heist: Why Winnipeg's Grassroots Revolution is a Mid",
       "category": "match",
       "image": "https://i.cbc.ca/ais/c9311e9c-e9e3-48e9-b21d-b01185e32e84,1766878047546/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D620",
       "excerpt": "Is the North American scouting system actually fit for purpose, or is it just a glorified country cl...",
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-great-canadian-tactical-heist-why-winnipegs-gr-1766969182854.html"
-       }
-    ]
+    }
+  ]
 }
