@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4,
+      "title": "THE HARD TRUTH: A SYSTEMIC COLLAPSE",
+      "category": "exclusive",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a8543307d9e1118128053a34faf9a19e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+      "excerpt": "San Lorenzo should be a talent factory. Instead, it’s a graveyard. The ABC news report paints a pict...",
+      "date": "2025-12-29",
+      "author": "Sport999 Team",
+      "url": "/articles/the-hard-truth-a-systemic-collapse-1766972831903.html"
+    },
+    {
       "id": 1,
       "title": "THE MOLINEUX HEIST: Why Diogo Jota's Cold-Blooded Betrayal Proves Arne Slot Has",
       "category": "exclusive",
