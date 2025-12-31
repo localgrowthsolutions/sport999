@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The INEOS Guillotine: Why Sacking Erik ten Hag is a Tactical Suicide Note for Ma",
+      "category": "exclusive",
+      "image": "https://source.unsplash.com/1600x900/?football",
+      "excerpt": "Is a trophy enough to save a man’s head from the block? Apparently not. On a sun-drenched afternoon ...",
+      "date": "2025-12-31",
+      "author": "Sport999 Team",
+      "url": "/articles/the-ineos-guillotine-why-sacking-erik-ten-hag-is-a-1767212022881.html"
+    },
+    {
+      "id": 21,
       "title": "The Theatre of Screams: Why Ten Hag’s ‘Chaos Ball’ is Tactical Suicide and How M",
       "category": "exclusive",
       "image": "https://source.unsplash.com/1600x900/?football",
@@ -189,16 +199,6 @@
       "date": "2025-12-28",
       "author": "Sport999 Team",
       "url": "/articles/the-molineux-heist-why-diogo-jotas-cold-blooded-be-1766947946300.html"
-    },
-    {
-      "id": 2,
-      "title": "THE MESSI PARALYSIS: Why Inter Miami’s \"Deity Complex\" Is Risking a Tactical Collapse",
-      "category": "exclusive",
-      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251227_WST_612368_lionel-messi-inter-miami-23.webp&width=1200&height=740",
-      "excerpt": "Can a footballer be too good for his own dressing room? It sounds like a pub-bore's hypothetical, bu...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "articles/the-messi-paralysis-why-inter-miamis-deity-complex-1766968858732.html"
     }
   ]
 }
