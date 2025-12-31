@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The $3 Million Benchwarmer: Is Arch Manning’s Patience the Smartest Gamble in Fo",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/683/1600/900",
+      "excerpt": "Can a player who spends most of his time holding a clipboard actually be the most influential figure...",
+      "date": "2025-12-31",
+      "author": "Sport999 Team",
+      "url": "/articles/the-3-million-benchwarmer-is-arch-mannings-patienc-1767222055554.html"
+    },
+    {
+      "id": 21,
       "title": "The Red Wall vs. The Mountain Peak: Why Nebraska vs. Utah Was a Volleyball Maste",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/423/1600/900",
@@ -189,16 +199,6 @@
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-golden-thread-why-hinata-miyazawas-renewal-is--1767012622982.html"
-    },
-    {
-      "id": 4,
-      "title": "THE HARD TRUTH: A SYSTEMIC COLLAPSE",
-      "category": "exclusive",
-      "image": "https://live-production.wcms.abc-cdn.net.au/a8543307d9e1118128053a34faf9a19e?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-      "excerpt": "San Lorenzo should be a talent factory. Instead, it’s a graveyard. The ABC news report paints a pict...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-hard-truth-a-systemic-collapse-1766972831903.html"
     }
   ]
 }
