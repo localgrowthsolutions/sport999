@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 21,
+      "title": "The Theatre of Screams: Why Ten Hag’s ‘Chaos Ball’ is Tactical Suicide and How M",
+      "category": "exclusive",
+      "image": "https://source.unsplash.com/1600x900/?football",
+      "excerpt": "Does Erik ten Hag actually know what he’s doing, or is he just a man drowning in a storm of his own ...",
+      "date": "2025-12-31",
+      "author": "Sport999 Team",
+      "url": "/articles/the-theatre-of-screams-why-ten-hags-chaos-ball-is--1767211998540.html"
+    },
+    {
       "id": 20,
       "title": "Arne Slot’s Silent Execution: How 'Slot-ball' Just Killed the Premier League’s H",
       "category": "exclusive",
@@ -189,16 +199,6 @@
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "articles/the-messi-paralysis-why-inter-miamis-deity-complex-1766968858732.html"
-    },
-    {
-      "id": 3,
-      "title": "The Great Canadian Tactical Heist: Why Winnipeg's Grassroots Revolution is a Mid",
-      "category": "match",
-      "image": "https://i.cbc.ca/ais/c9311e9c-e9e3-48e9-b21d-b01185e32e84,1766878047546/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D620",
-      "excerpt": "Is the North American scouting system actually fit for purpose, or is it just a glorified country cl...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-great-canadian-tactical-heist-why-winnipegs-gr-1766969182854.html"
     }
   ]
 }
