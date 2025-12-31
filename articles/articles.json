@@ -1,55 +1,5 @@
 {
-  "articles": [
-    {
-      "id": 21,
-      "title": "The INEOS Guillotine: Why Sacking Erik ten Hag is a Tactical Suicide Note for Ma",
-      "category": "exclusive",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "Is a trophy enough to save a man’s head from the block? Apparently not. On a sun-drenched afternoon ...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-ineos-guillotine-why-sacking-erik-ten-hag-is-a-1767212022881.html"
-    },
-    {
-      "id": 21,
-      "title": "The Theatre of Screams: Why Ten Hag’s ‘Chaos Ball’ is Tactical Suicide and How M",
-      "category": "exclusive",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "Does Erik ten Hag actually know what he’s doing, or is he just a man drowning in a storm of his own ...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-theatre-of-screams-why-ten-hags-chaos-ball-is--1767211998540.html"
-    },
-    {
-      "id": 20,
-      "title": "Arne Slot’s Silent Execution: How 'Slot-ball' Just Killed the Premier League’s H",
-      "category": "exclusive",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "Is the \"Heavy Metal\" dream dead? Seven matches into the new campaign, the statistics don't just sugg...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/arne-slots-silent-execution-how-slot-ball-just-kil-1767211976630.html"
-    },
-    {
-      "id": 19,
-      "title": "The Pochettino Paradox: Why the USMNT Just Trashed the Blueprint for a High-Stak",
-      "category": "exclusive",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "Is the American Dream finally meeting a tactical reality check, or are we witnessing the most expens...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-pochettino-paradox-why-the-usmnt-just-trashed--1767211952330.html"
-    },
-    {
-      "id": 18,
-      "title": "Breaking News",
-      "category": "exclusive",
-      "image": "https://source.unsplash.com/1600x900/?football",
-      "excerpt": "Breaking News - Latest football news and analysis from Sport999...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/breaking-news-1767211928001.html"
-    },
+  "articles": [,
     {
       "id": 17,
       "title": "The Death of the 'Pep-Clone' Era: Why 2025 Became the Year of Tactical Anarchy a",
