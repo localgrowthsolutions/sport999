@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE MADRID ULTIMATUM: Why Florentino Pérez Just Put a Hit on Mastantuono’s World",
+      "category": "exclusive",
+      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251230_WST_612839_franco-mastantuono-real-madrid-1.webp&width=1200&height=740",
+      "excerpt": "Is a teenage prodigy’s career worth more than a seat on the Real Madrid private jet? That is the £40...",
+      "date": "2025-12-31",
+      "author": "Sport999 Team",
+      "url": "/articles/the-madrid-ultimatum-why-florentino-prez-just-put--1767222076468.html"
+    },
+    {
+      "id": 21,
       "title": "The $3 Million Benchwarmer: Is Arch Manning’s Patience the Smartest Gamble in Fo",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/683/1600/900",
@@ -189,16 +199,6 @@
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-bernabus-broken-shield-why-the-growth-narrativ-1767013226124.html"
-    },
-    {
-      "id": 5,
-      "title": "The Golden Thread: Why Hinata Miyazawa’s Renewal is the Only Thing Saving Marc S",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_athletic_articles_169/bcf7316edb9c8893813a2d15f7a43cff",
-      "excerpt": "Can one player’s signature truly stop the bleeding at a club that feels like it’s perpetually one de...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-golden-thread-why-hinata-miyazawas-renewal-is--1767012622982.html"
     }
   ]
 }
