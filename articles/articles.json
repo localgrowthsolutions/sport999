@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Why Bishop Briggs Is The Undisputed MVP Of The NFL’s Cultural Revolution",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/98/1600/900",
+      "excerpt": "Can a single voice carry more weight than a first-round draft pick? When Bishop Briggs steps into th...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/why-bishop-briggs-is-the-undisputed-mvp-of-the-nfl-1767286861754.html"
+    },
+    {
+      "id": 21,
       "title": "The Apple TV 2026 Takeover: Tactical Genius or the Death of the Beautiful Game?",
       "category": "exclusive",
       "image": "https://www.cultofmac.com/wp-content/uploads/2025/12/Highly-anticipated-Apple-TV-shows.jpg.webp",
@@ -189,16 +199,6 @@
       "date": "2025-12-30",
       "author": "Sport999 Team",
       "url": "/articles/the-hard-truth-blood-on-the-macadam-1767108490406.html"
-    },
-    {
-      "id": 10,
-      "title": "Bottled It or Bravery? The Brutal Tactical Truth Behind the 2025 NFL Playoff Blo",
-      "category": "exclusive",
-      "image": "https://a.espncdn.com/photo/2025/1219/251219_nfl_playoff-probs_16x9.jpg",
-      "excerpt": "Are we witnessing the greatest tactical evolution in the history of the sport, or is this just a hig...",
-      "date": "2025-12-30",
-      "author": "Sport999 Team",
-      "url": "/articles/bottled-it-or-bravery-the-brutal-tactical-truth-be-1767060062202.html"
     }
   ]
 }
