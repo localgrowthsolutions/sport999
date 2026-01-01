@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Whiteout Warfare: How the New Year’s Day Snow Squall Just Shattered the NFL Play",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/373/1600/900",
+      "excerpt": "Can a twenty-minute burst of frozen chaos determine who lifts the Lombardi Trophy? Ask any quarterba...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/whiteout-warfare-how-the-new-years-day-snow-squall-1767265270663.html"
+    },
+    {
+      "id": 21,
       "title": "THE NIIGATA EXODUS: WHY KAITO TANIGUCHI’S EUROPEAN GAMBLE LEAVES THE SWAN IN A D",
       "category": "exclusive",
       "image": "https://blog.domesoccer.jp/app/wp-content/uploads/2025/12/111-10.jpg?v=1767167332",
@@ -189,16 +199,6 @@
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-indy-collapse-how-the-jaguars-dismantled-the-c-1767048096312.html"
-    },
-    {
-      "id": 8,
-      "title": "THE DEATH OF THE DYNASTY? WHY THE SEAHAWKS' WEEK 17 INACTIVES ARE A TACTICAL SUI",
-      "category": "exclusive",
-      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/seahawks/kz3utkkkt8nffk8k5h5v",
-      "excerpt": "Is this football or a public execution? When the team sheet dropped for the Seattle Seahawks’ Week 1...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-death-of-the-dynasty-why-the-seahawks-week-17--1767033448388.html"
     }
   ]
 }
