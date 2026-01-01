@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Live Countdown to 2026: Why the FIFA World Cup and America’s 250th Birthday ",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/639/1600/900",
+      "excerpt": "Can you hear it? It is the sound of a ticking clock, but it isn’t just counting down to another ball...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/the-live-countdown-to-2026-why-the-fifa-world-cup--1767254466241.html"
+    },
+    {
+      "id": 21,
       "title": "THE FINAL BUZZER: WHO GOT CUT FROM THE HAWKINS ROSTER IN THE STRANGER THINGS SEA",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/563/1600/900",
@@ -189,16 +199,6 @@
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-death-of-the-dynasty-why-the-seahawks-week-17--1767033448388.html"
-    },
-    {
-      "id": 7,
-      "title": "The Hard Truth: A Season on the Precipice",
-      "category": "exclusive",
-      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/seahawks/doiu2w8nkmtrgb8luqqt",
-      "excerpt": "Let’s be straight: Seattle’s current trajectory is shambolic. While the official news cycle focuses ...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-hard-truth-a-season-on-the-precipice-1767021952648.html"
     }
   ]
 }
