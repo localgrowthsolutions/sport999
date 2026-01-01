@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE TUSCALOOSA TIGHTROPE: CAN KALEN DEBOER SURVIVE THE GHOST OF NICK SABAN?",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/604/1600/900",
+      "excerpt": "Is the greatest dynasty in the history of college football finally dead, or has it simply changed it...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/the-tuscaloosa-tightrope-can-kalen-deboer-survive--1767308461621.html"
+    },
+    {
+      "id": 21,
       "title": "THE FOXBOROUGH EXILE IS ENDING: WHY THE EVERETT STADIUM DEAL IS THE REVOLUTION’S",
       "category": "exclusive",
       "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/11/WNLWKUPTQVU5G7ZG6PSAMFZFEQ-673512b4a6ad2-768x432.jpg",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-lamar-jackson-limbo-is-baltimores-season-about-1767146066467.html"
-    },
-    {
-      "id": 12,
-      "title": "THE $100 MILLION REJECTION: Why Marcus Freeman Snubbed the NFL to Chase Immortal",
-      "category": "exclusive",
-      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1027%2Fr1566909_1296x729_16%2D9.jpg",
-      "excerpt": "How much is a soul worth in the modern game? For Marcus Freeman, the price tag was apparently higher...",
-      "date": "2025-12-30",
-      "author": "Sport999 Team",
-      "url": "/articles/the-100-million-rejection-why-marcus-freeman-snubb-1767121132931.html"
     }
   ]
 }
