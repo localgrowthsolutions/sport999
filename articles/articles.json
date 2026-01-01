@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Green Menace: Why Dan Lanning’s Oregon is the New King of College Football",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/189/1600/900",
+      "excerpt": "Is Oregon a football program or a Fortune 500 company that happens to play on Saturdays? Look at the...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/the-green-menace-why-dan-lannings-oregon-is-the-ne-1767297658652.html"
+    },
+    {
+      "id": 21,
       "title": "THE DELUSION OF THE GOAT: Why Ronaldo’s ‘Shameless’ Goal Claim Signals The End o",
       "category": "exclusive",
       "image": "https://brobible.com/wp-content/uploads/2025/12/ronaldo-celebration.jpg",
@@ -189,16 +199,6 @@
       "date": "2025-12-30",
       "author": "Sport999 Team",
       "url": "/articles/the-100-million-rejection-why-marcus-freeman-snubb-1767121132931.html"
-    },
-    {
-      "id": 11,
-      "title": "THE HARD TRUTH: BLOOD ON THE MACADAM",
-      "category": "exclusive",
-      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1118%2Fr1577103_1296x729_16%2D9.jpg",
-      "excerpt": "Let’s get the facts straight, because the \"spin doctors\" are already trying to park the bus. Anthony...",
-      "date": "2025-12-30",
-      "author": "Sport999 Team",
-      "url": "/articles/the-hard-truth-blood-on-the-macadam-1767108490406.html"
     }
   ]
 }
