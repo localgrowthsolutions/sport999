@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Kickoff Crisis: Is Walmart Open for the New Year’s Day Blitz?",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/715/1600/900",
+      "excerpt": "Are you staring at an empty cooler with the Rose Bowl kickoff just hours away? Did you fumble the sn...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/the-kickoff-crisis-is-walmart-open-for-the-new-yea-1767276066800.html"
+    },
+    {
+      "id": 21,
       "title": "THE SAUDI EXODUS BEGINS: Why Joao Cancelo’s Shock Exit Is a Middle Finger to the",
       "category": "exclusive",
       "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251231_WST_612927_ronaldo-cancelo.webp&width=1200&height=740",
@@ -189,16 +199,6 @@
       "date": "2025-12-30",
       "author": "Sport999 Team",
       "url": "/articles/bottled-it-or-bravery-the-brutal-tactical-truth-be-1767060062202.html"
-    },
-    {
-      "id": 9,
-      "title": "THE INDY COLLAPSE: How the Jaguars Dismantled the Colts’ Low-Block in a Boxing D",
-      "category": "exclusive",
-      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/panthers/ykeuupzr6okafuoggs67",
-      "excerpt": "Is the \"Colt Way\" officially dead, or did we just witness the most expensive tactical suicide in the...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-indy-collapse-how-the-jaguars-dismantled-the-c-1767048096312.html"
     }
   ]
 }
