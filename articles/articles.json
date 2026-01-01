@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 21,
+      "title": "THE FINAL BUZZER: WHO GOT CUT FROM THE HAWKINS ROSTER IN THE STRANGER THINGS SEA",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/563/1600/900",
+      "excerpt": "Did the Duffer Brothers just pull off the greatest goal-line stand in television history, or did the...",
+      "date": "2026-01-01",
+      "author": "Sport999 Team",
+      "url": "/articles/the-final-buzzer-who-got-cut-from-the-hawkins-rost-1767243671718.html"
+    },
+    {
       "id": 20,
       "title": "The Ghost of 2003 and the Texas Beatdown: Can Ohio State Survive the Miami Storm",
       "category": "exclusive",
@@ -189,16 +199,6 @@
       "date": "2025-12-29",
       "author": "Sport999 Team",
       "url": "/articles/the-hard-truth-a-season-on-the-precipice-1767021952648.html"
-    },
-    {
-      "id": 6,
-      "title": "The Bernabéu’s Broken Shield: Why the \"Growth\" Narrative is a Dangerous Gamble f",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Z3E00NG9tIzU39Bj7wpetg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/madrid_universal_articles_561/6a74784470f3dce43e36c4f20ecf1594",
-      "excerpt": "Is the legendary white shirt of Real Madrid becoming too heavy for its own backline? When a national...",
-      "date": "2025-12-29",
-      "author": "Sport999 Team",
-      "url": "/articles/the-bernabus-broken-shield-why-the-growth-narrativ-1767013226124.html"
     }
   ]
 }
