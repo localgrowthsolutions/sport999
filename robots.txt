@@ -1,8 +1,6 @@
-# تم تنظيف الملف لضمان أقصى أداء في محركات البحث
 User-Agent: *
 Allow: /
 
-# منع البوتات التي تستهلك موارد السيرفر وتسرق الجهد
 User-agent: Amazonbot
 Disallow: /
 
@@ -27,5 +25,4 @@ Disallow: /
 User-agent: meta-externalagent
 Disallow: /
 
-# إضافة رابط خريطة الموقع لتعزيز الأرشفة (استبدله برابطك الفعلي)
 Sitemap: https://sport999.online/sitemap.xml
