@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "From the Harvard Trenches to San Francisco Tragedy: The Unyielding Grit of Tommy",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/114/1600/900",
+      "excerpt": "Does a man ever truly leave the offensive line? For Tommy Lee Jones, the answer is a cold, hard no. ...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/from-the-harvard-trenches-to-san-francisco-tragedy-1767330066090.html"
+    },
+    {
+      "id": 21,
       "title": "The Oxford Gamble: Is Ole Miss Football Finally Ready to Cash Its Billion-Dollar",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/983/1600/900",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-therapy-high-press-why-jimmys-shrinking-season-1767199651696.html"
-    },
-    {
-      "id": 14,
-      "title": "The Great Emerald Escape: Why the Rams’ Meltdown Just Handed Seattle the Keys to",
-      "category": "exclusive",
-      "image": "https://images.seattletimes.com/wp-content/uploads/2025/12/12292025_tzr_tzr_213131.jpg?d=1200x630",
-      "excerpt": "How much do you value a second chance? In the cold, unforgiving vacuum of the NFC West, mercy is a r...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-great-emerald-escape-why-the-rams-meltdown-jus-1767182783925.html"
     }
   ]
 }
