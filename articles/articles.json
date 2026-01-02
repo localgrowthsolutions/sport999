@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Desert Duel: Is Al-Ahli vs. Al-Nassr the New Center of the Football Universe",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/809/1600/900",
+      "excerpt": "Can money buy a soul? Can a billion-dollar injection transform a regional rivalry into a global spec...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/the-desert-duel-is-al-ahli-vs-al-nassr-the-new-cen-1767384060953.html"
+    },
+    {
+      "id": 21,
       "title": "2026: The Tactical Apocalypse and the Death of \"Proper\" Football as We Know It",
       "category": "exclusive",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/12/Best-New-Shows-2026-e1767201153186.jpg?w=650",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/does-the-curry-homecoming-still-matter-or-is-the-g-1767214673846.html"
-    },
-    {
-      "id": 18,
-      "title": "The Curry Homecoming or a Changing of the Guard? Why Warriors vs. Hornets is the",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/ZG9dl92.jpeg",
-      "excerpt": "Can a single mid-season game in the Queen City define the trajectory of two franchises headed in opp...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-curry-homecoming-or-a-changing-of-the-guard-wh-1767214356533.html"
     }
   ]
 }
