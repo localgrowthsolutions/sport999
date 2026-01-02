@@ -7,13 +7,69 @@
     <title>Sport999 - Your Premier Sports News Source</title>
     <meta name="description"
         content="Sport999 - Breaking sports news, live scores, transfers, and analysis for Football, Basketball, Tennis, MMA, and more.">
-    <meta property="og:title" content="Sport999 - Your Premier Sports News Source">
-    <meta property="og:description" content="Breaking sports news, live scores, transfers, and analysis.">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sport999.online">
+    <meta property="og:title" content="Sport999 - Your Premier Sports News Source">
+    <meta property="og:description"
+        content="Breaking sports news, live scores, transfers, and analysis for Football, Basketball, Tennis, MMA, and more.">
+    <meta property="og:image" content="https://i.imgur.com/mpVQwu6.jpeg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="Sport999">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Sport999 - Your Premier Sports News Source">
+    <meta name="twitter:description" content="Breaking sports news, live scores, transfers, and analysis.">
+    <meta name="twitter:image" content="https://i.imgur.com/mpVQwu6.jpeg">
+
+    <!-- Preconnect for faster font loading -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap"
         rel="stylesheet">
+
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Sport999",
+      "url": "https://sport999.online",
+      "description": "Breaking sports news, live scores, transfers, and analysis.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://sport999.online/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Sport999",
+      "url": "https://sport999.online",
+      "logo": "https://sport999.online/logo.png",
+      "sameAs": [
+        "https://facebook.com/sport999",
+        "https://twitter.com/sport999online",
+        "https://instagram.com/sport999online"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": "contact@sport999.online"
+      }
+    }
+    </script>
     <style>
         :root {
             --primary: #0d4a2e;
@@ -461,12 +517,6 @@
         }
 
 
-        .side-meta {
-            color: var(--text-muted);
-            font-size: 0.8rem;
-            margin-top: 8px;
-        }
-
         /* News Grid */
         .news-section {
             padding: 50px 0;
@@ -780,19 +830,34 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="container">
-            <div class="hero-grid" id="hero-grid">
-                <!-- Dynamic content will be loaded here -->
+            <div class="hero-grid">
                 <a href="#" class="hero-main">
                     <img src="https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1200"
                         alt="Featured Story">
                     <div class="hero-overlay">
                         <span class="category-tag">Football</span>
-                        <h1 class="hero-title">Loading latest articles...</h1>
-                        <div class="hero-meta">⏱ Please wait</div>
+                        <h1 class="hero-title">Champions League: Epic Final Showdown Between Real Madrid and Manchester
+                            City</h1>
+                        <div class="hero-meta">⏱ 2 hours ago • By Sport999 Team</div>
                     </div>
                 </a>
                 <div class="hero-side">
-                    <!-- Side cards will load dynamically -->
+                    <a href="#" class="side-card">
+                        <img src="https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?auto=compress&cs=tinysrgb&w=800"
+                            alt="Basketball">
+                        <div class="side-overlay">
+                            <span class="category-tag">Basketball</span>
+                            <h3 class="side-title">NBA Finals: Lakers vs Celtics Game 7 Preview</h3>
+                        </div>
+                    </a>
+                    <a href="#" class="side-card">
+                        <img src="https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=800"
+                            alt="Tennis">
+                        <div class="side-overlay">
+                            <span class="category-tag">Tennis</span>
+                            <h3 class="side-title">Wimbledon 2025: New Champion Crowned</h3>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -982,38 +1047,6 @@
             `).join('');
         }
 
-        // Render hero section
-        function renderHero(articles) {
-            const heroGrid = document.getElementById('hero-grid');
-            if (!heroGrid || articles.length === 0) return;
-
-            const featured = articles[0]; // First article as main featured
-            const sideArticles = articles.slice(1, 3); // Next 2 as side cards
-
-            heroGrid.innerHTML = `
-                <a href="${featured.url || '#'}" class="hero-main">
-                    <img src="${featured.image}" alt="${featured.title}">
-                    <div class="hero-overlay">
-                        <span class="category-tag">${featured.category.toUpperCase()}</span>
-                        <h1 class="hero-title">${featured.title}</h1>
-                        <div class="hero-meta">⏱ ${timeAgo(featured.date)} • By ${featured.author || 'Sport999 Team'}</div>
-                    </div>
-                </a>
-                <div class="hero-side">
-                    ${sideArticles.map(article => `
-                        <a href="${article.url || '#'}" class="side-card">
-                            <img src="${article.image}" alt="${article.title}">
-                            <div class="side-overlay">
-                                <span class="category-tag">${article.category.toUpperCase()}</span>
-                                <h3 class="side-title">${article.title}</h3>
-                                <div class="side-meta">⏱ ${timeAgo(article.date)}</div>
-                            </div>
-                        </a>
-                    `).join('')}
-                </div>
-            `;
-        }
-
         // Initialize
         async function init() {
             // Show loading state
@@ -1023,7 +1056,6 @@
             const articles = await fetchArticles();
 
             if (articles.length > 0) {
-                renderHero(articles);
                 renderNews('news-grid', articles);
                 renderNews('trending-grid', articles);
                 renderPopular(articles);
