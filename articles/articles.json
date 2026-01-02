@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Terminator Has Re-Booted: Why Kawhi Leonard’s 55-Point Explosion Just Saved ",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/813/1600/900",
+      "excerpt": "Can a robot feel heat? For years, the NBA world has joked that Kawhi Leonard is more machine than ma...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/the-terminator-has-re-booted-why-kawhi-leonards-55-1767340871279.html"
+    },
+    {
+      "id": 21,
       "title": "WHY THE TOMATO BOWL JUST EXPOSED THE PLASTIC SOUL OF MODERN FOOTBALL: A TACTICAL",
       "category": "exclusive",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-wisconsin-revolution-why-jordan-loves-tactical-1767200483011.html"
-    },
-    {
-      "id": 15,
-      "title": "The Therapy High-Press: Why Jimmy’s ‘Shrinking’ Season 3 Tactics Are a Tactical ",
-      "category": "exclusive",
-      "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6953ec69b18ff062f8cca36d/1767112077664/Screenshot+2025-12-30+at+7.38.28%E2%80%AFAM.jpg?format=1500w",
-      "excerpt": "Can Jason Segel’s Jimmy Laird actually play the long ball, or is he destined to stay trapped in a lo...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-therapy-high-press-why-jimmys-shrinking-season-1767199651696.html"
     }
   ]
 }
