@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Sismo in the Second Half: How Mexico’s 6.5 Shaker Just Redrew the Liga MX Tactic",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/523/1600/900",
+      "excerpt": "Can a stadium scream? On the morning of January 2, 2026, the concrete lungs of Mexico City didn't ju...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/sismo-in-the-second-half-how-mexicos-65-shaker-jus-1767373269028.html"
+    },
+    {
+      "id": 21,
       "title": "OREGON VS TEXAS TECH: THE ORANGE BOWL BLOODBATH – TACTICAL MASTERCLASS OR DEFENS",
       "category": "exclusive",
       "image": "https://i.insider.com/69556c1964858d02d2179b7a?width=1200&format=jpeg",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-curry-homecoming-or-a-changing-of-the-guard-wh-1767214356533.html"
-    },
-    {
-      "id": 17,
-      "title": "THE LUKA PARADOX: CAN MINNESOTA’S NO. 1 DEFENSE SURVIVE THE DALLAS ONSLAUGHT OR ",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/h3IHxTm.jpeg",
-      "excerpt": "How do you stop a player who thrives on your best efforts to stop him? That is the terrifying questi...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-luka-paradox-can-minnesotas-no-1-defense-survi-1767213994655.html"
     }
   ]
 }
