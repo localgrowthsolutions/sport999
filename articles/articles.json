@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Blood in the Memphis Mud: Why the Liberty Bowl Just Became a War for the Soul of",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/743/1600/900",
+      "excerpt": "Can a football game still be a game when one team is playing for a legacy and the other is playing f...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/blood-in-the-memphis-mud-why-the-liberty-bowl-just-1767394869072.html"
+    },
+    {
+      "id": 21,
       "title": "TACTICAL REASONING: THE \"AUTHENTICITY\" CRISIS",
       "category": "exclusive",
       "image": "https://www.irishtimes.com/resizer/v2/3R4KYUK7Z5HLXEY33J7YX2PUGE.jpg?smart=true&auth=c95f9b2b7b4b9009af7e578ae003282996059e12c5d8a1ff26533badc343cc4e&width=1200&height=630",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/will-stephen-currys-homecoming-finally-expose-the--1767215428533.html"
-    },
-    {
-      "id": 19,
-      "title": "Does the Curry Homecoming Still Matter, or is the Golden State Dynasty Officiall",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/Yy20fIn.jpeg",
-      "excerpt": "Is there any theater left in a homecoming? Every time Stephen Curry steps into the Spectrum Center i...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/does-the-curry-homecoming-still-matter-or-is-the-g-1767214673846.html"
     }
   ]
 }
