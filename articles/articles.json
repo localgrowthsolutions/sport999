@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE GOLDEN BOY’S COLD FEET: Why Beckham’s Bitcoin Retreat Signals a Tactical Mel",
+      "category": "exclusive",
+      "image": "https://bitcoinist.com/wp-content/uploads/2025/12/a_251ee2.jpg",
+      "excerpt": "Is the brand finally bigger than the ball? When the news broke that David Beckham’s health-tech vent...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/the-golden-boys-cold-feet-why-beckhams-bitcoin-ret-1767319274699.html"
+    },
+    {
+      "id": 21,
       "title": "THE BECKHAM SCHISM: Why Brooklyn’s 2025 Snub Signals a Ruthless Tactical Purge a",
       "category": "exclusive",
       "image": "https://imagez.tmz.com/image/4a/16by9/2025/12/31/4a3bdd4eb9ef4727a7a0f93ca416c4c3_xl.jpg",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-great-emerald-escape-why-the-rams-meltdown-jus-1767182783925.html"
-    },
-    {
-      "id": 14,
-      "title": "The Lamar Jackson Limbo: Is Baltimore’s Season About to Hit the Brick Wall or is",
-      "category": "exclusive",
-      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/xjgnkuqhy8wgevqtokzk",
-      "excerpt": "Is the Baltimore Ravens’ season hanging by a literal thread, or are we witnessing a masterclass in p...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-lamar-jackson-limbo-is-baltimores-season-about-1767146066467.html"
     }
   ]
 }
