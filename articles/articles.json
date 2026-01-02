@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "High Surf, Higher Stakes: Why Mother Nature’s Coastal Defensive Scheme Is Shutti",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/302/1600/900",
+      "excerpt": "Will the sea walls hold, or are we looking at a permanent blowout? That is the only question that ma...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/high-surf-higher-stakes-why-mother-natures-coastal-1767351665865.html"
+    },
+    {
+      "id": 21,
       "title": "The Bosman Heist: How Pre-Contracts Are Killing the Transfer Fee and Destroying ",
       "category": "transfer",
       "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/4de993eebc7358aecb54cc2c5ddf6683",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-death-of-the-pep-clone-era-why-2025-became-the-1767211274178.html"
-    },
-    {
-      "id": 16,
-      "title": "THE WISCONSIN REVOLUTION: WHY JORDAN LOVE’S TACTICAL MASTERCLASS IS TURNING GREE",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5JWwRiqunTNxRx6WWGQsZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/1d6afda68c317e87b0c1e126734604d6",
-      "excerpt": "Is the Rodgers era finally a ghost of the past, or are we witnessing the most sophisticated tactical...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-wisconsin-revolution-why-jordan-loves-tactical-1767200483011.html"
     }
   ]
 }
