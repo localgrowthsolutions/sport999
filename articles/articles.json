@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Undisputed GOAT of the Holiday League: Why Lacey Chabert Still Owns the Wint",
+      "category": "match",
+      "image": "https://picsum.photos/seed/728/1600/900",
+      "excerpt": "Is there any athlete in the history of professional sports with a higher \"Clutch Factor\" than Lacey ...",
+      "date": "2026-01-02",
+      "author": "Sport999 Team",
+      "url": "/articles/the-undisputed-goat-of-the-holiday-league-why-lace-1767362469183.html"
+    },
+    {
+      "id": 21,
       "title": "GUARDIOLA’S WEARSIDE NIGHTMARE: Why Manchester City Face a Tactical Death Trap a",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/983093c89ec13b2ed41434912ff6cde3",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-luka-paradox-can-minnesotas-no-1-defense-survi-1767213994655.html"
-    },
-    {
-      "id": 17,
-      "title": "The Death of the 'Pep-Clone' Era: Why 2025 Became the Year of Tactical Anarchy a",
-      "category": "exclusive",
-      "image": "https://www.theobserver.com/wp-content/uploads/2025/12/Nick-Landy-2023.jpg",
-      "excerpt": "How much is a billion pounds worth if your squad can’t track a simple third-man run? Zero. Absolutel...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-death-of-the-pep-clone-era-why-2025-became-the-1767211274178.html"
     }
   ]
 }
