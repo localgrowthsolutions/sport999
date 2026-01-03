@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Mother of All Extraditions: Why the USS Iwo Jima is the Only Pitcher That Ma",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/476/1600/900",
+      "excerpt": "Is this the greatest defensive stop in the history of the Western Hemisphere? Forget a goal-line sta...",
+      "date": "2026-01-03",
+      "author": "Sport999 Team",
+      "url": "/articles/the-mother-of-all-extraditions-why-the-uss-iwo-jim-1767459668349.html"
+    },
+    {
+      "id": 21,
       "title": "Arteta’s January Nightmare: Can Arsenal Survive the Vitality Pressure Cooker or ",
       "category": "exclusive",
       "image": "https://sportshub.cbsistatic.com/i/r/2026/01/01/b880fdb4-769e-4fa2-a89f-931ab4e39aca/thumbnail/1200x675/ad847bd118ab9e546b52426dfe86bc6f/mikel-arteta.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-niigata-exodus-why-kaito-taniguchis-european-g-1767254471603.html"
-    },
-    {
-      "id": 21,
-      "title": "THE FINAL BUZZER: WHO GOT CUT FROM THE HAWKINS ROSTER IN THE STRANGER THINGS SEA",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/563/1600/900",
-      "excerpt": "Did the Duffer Brothers just pull off the greatest goal-line stand in television history, or did the...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-final-buzzer-who-got-cut-from-the-hawkins-rost-1767243671718.html"
     }
   ]
 }
