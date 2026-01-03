@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basketball News | Sport999</title>
+    <meta name="description" content="Latest basketball news, analysis, and insights from Sport999. Breaking stories, expert commentary, and in-depth coverage.">
+    <link rel="canonical" href="https://sport999.online/basketball/">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Basketball News | Sport999">
+    <meta property="og:description" content="Latest basketball news and analysis from Sport999">
+    <meta property="og:url" content="https://sport999.online/basketball/">
+    <meta property="og:site_name" content="Sport999">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    
+    <style>
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    font-family: Inter, sans-serif;
+    background: linear-gradient(135deg, #0d1117 0%, #0d2818 50%, #0d1117 100%);
+    background-attachment: fixed;
+    color: #e0e0e0;
+    line-height: 1.8;
+    min-height: 100vh
+}
+
+.accent-bar {
+    height: 4px;
+    background: linear-gradient(90deg, #ff5722, #00c853)
+}
+
+header {
+    background: #041109;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-bottom: 1px solid rgba(0, 200, 83, 0.3)
+}
+
+.logo {
+    font-family: Playfair Display, serif;
+    font-size: 2.3rem;
+    font-weight: 900;
+    color: #00c853;
+    text-decoration: none
+}
+
+.logo span {
+    color: #fff
+}
+
+.back,
+.back:visited,
+.back:link,
+.back:active {
+    color: #9e9e9e;
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: color 0.3s
+}
+
+.back:hover {
+    color: #00c853
+}
+
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 30px 20px
+}
+
+article {
+    background: rgba(30, 30, 30, 0.6);
+    backdrop-filter: blur(10px);
+    padding: 35px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 200, 83, 0.2);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5)
+}
+
+@keyframes greenLineSlide {
+    from { transform: scaleY(0) }
+    to { transform: scaleY(1) }
+}
+
+h1 {
+    font-family: Playfair Display, serif;
+    font-size: 2.8rem;
+    font-weight: 900;
+    margin-bottom: 26px;
+    color: #fff;
+    line-height: 1.15;
+    padding-left: 24px;
+    position: relative
+}
+
+h1::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 6px;
+    background: #2ecc71;
+    transform-origin: top;
+    animation: greenLineSlide 0.6s ease-out forwards
+}
+
+h2 {
+    font-family: Playfair Display, serif;
+    font-size: 2rem;
+    margin: 45px 0 24px;
+    padding-left: 24px;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #2ecc71;
+    position: relative
+}
+
+h2::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 6px;
+    background: #2ecc71;
+    transform-origin: top;
+    animation: greenLineSlide 0.6s ease-out forwards
+}
+
+p {
+    margin-bottom: 22px;
+    color: #e0e0e0;
+    font-size: 1.1rem;
+    line-height: 1.9
+}
+
+blockquote {
+    background: linear-gradient(135deg, rgba(0, 200, 83, 0.15), rgba(13, 74, 46, 0.15));
+    padding: 25px;
+    border-left: 4px solid #00c853;
+    margin: 30px 0;
+    font-style: italic;
+    color: #9e9e9e;
+    border-radius: 0 12px 12px 0
+}
+
+strong {
+    color: #00c853;
+    font-weight: 600
+}
+
+a {
+    color: #00c853;
+    text-decoration: none;
+    transition: color 0.3s
+}
+
+a:hover {
+    color: #00ff66
+}
+
+.breadcrumb {
+    padding: 15px 20px;
+    font-size: 0.9rem;
+    color: #9e9e9e
+}
+
+.breadcrumb a {
+    color: #9e9e9e
+}
+
+.breadcrumb a:hover {
+    color: #00c853
+}
+
+.category-tag {
+    display: inline-block;
+    background: #ff5722;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 15px
+}
+
+.article-meta {
+    color: #9e9e9e;
+    font-size: 0.95rem;
+    margin-bottom: 25px
+}
+
+.featured-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 30px
+}
+
+.related-articles {
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(0, 200, 83, 0.2)
+}
+
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px
+}
+
+.related-card {
+    background: #041109;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s
+}
+
+.related-card:hover {
+    transform: translateY(-5px)
+}
+
+.related-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover
+}
+
+.related-card-content {
+    padding: 15px
+}
+
+.related-card h4 {
+    font-size: 1rem;
+    color: #fff;
+    line-height: 1.4
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #666;
+    border-top: 1px solid rgba(0, 200, 83, 0.1);
+    margin-top: 40px;
+    font-size: 0.95rem
+}
+
+@media (max-width: 768px) {
+    h1 { font-size: 2rem }
+    h2 { font-size: 1.5rem }
+    article { padding: 20px }
+    .container { padding: 15px }
+}
+
+        
+        .category-header {
+            text-align: center;
+            padding: 60px 20px;
+            background: rgba(0, 200, 83, 0.1);
+            margin-bottom: 40px;
+        }
+        
+        .category-header h1 {
+            font-size: 3rem;
+            color: #00c853;
+        }
+        
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .news-card {
+            background: #041109;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-decoration: none;
+        }
+        
+        .news-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 200, 83, 0.2);
+        }
+        
+        .news-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        
+        .card-content {
+            padding: 20px;
+        }
+        
+        .card-content h3 {
+            color: #fff;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        
+        .card-content p {
+            color: #9e9e9e;
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+        }
+        
+        .date {
+            color: #00c853;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="accent-bar"></div>
+    
+    <header>
+        <a href="/" class="logo">SPORT<span>999</span></a>
+        <a href="/" class="back">← Back to Home</a>
+    </header>
+    
+    <div class="category-header">
+        <h1>Basketball News</h1>
+        <p>Latest basketball stories, analysis, and expert commentary</p>
+    </div>
+    
+    <div class="news-grid">
+        
+        <a href="/articles/will-stephen-currys-homecoming-finally-expose-the--1767215428533.html" class="news-card">
+            <img src="https://i.imgur.com/y62NKQa.jpeg" alt="WILL STEPHEN CURRY'S HOMECOMING FINALLY EXPOSE THE WARRIORS' FRAILTY OR HUMILIATE THE HORNETS?" loading="lazy">
+            <div class="card-content">
+                <h3>WILL STEPHEN CURRY'S HOMECOMING FINALLY EXPOSE THE WARRIORS' FRAILTY OR HUMILIATE THE HORNETS?</h3>
+                <p>Is the Golden State dynasty finally gasping its last breath, or is it merely reinventing itself in t...</p>
+                <span class="date">2025-12-31</span>
+            </div>
+        </a>
+        <a href="/articles/does-the-curry-homecoming-still-matter-or-is-the-g-1767214673846.html" class="news-card">
+            <img src="https://i.imgur.com/Yy20fIn.jpeg" alt="Does the Curry Homecoming Still Matter, or is the Golden State Dynasty Officially Running on Fumes?" loading="lazy">
+            <div class="card-content">
+                <h3>Does the Curry Homecoming Still Matter, or is the Golden State Dynasty Officially Running on Fumes?</h3>
+                <p>Is there any theater left in a homecoming? Every time Stephen Curry steps into the Spectrum Center i...</p>
+                <span class="date">2025-12-31</span>
+            </div>
+        </a>
+        <a href="/articles/the-curry-homecoming-or-a-changing-of-the-guard-wh-1767214356533.html" class="news-card">
+            <img src="https://i.imgur.com/ZG9dl92.jpeg" alt="The Curry Homecoming or a Changing of the Guard? Why Warriors vs. Hornets is the NBA's Most Brutal Reality Check" loading="lazy">
+            <div class="card-content">
+                <h3>The Curry Homecoming or a Changing of the Guard? Why Warriors vs. Hornets is the NBA's Most Brutal Reality Check</h3>
+                <p>Can a single mid-season game in the Queen City define the trajectory of two franchises headed in opp...</p>
+                <span class="date">2025-12-31</span>
+            </div>
+        </a>
+        <a href="/articles/the-luka-paradox-can-minnesotas-no-1-defense-survi-1767213994655.html" class="news-card">
+            <img src="https://i.imgur.com/h3IHxTm.jpeg" alt="THE LUKA PARADOX: Can Minnesota's No. 1 Defense Survive the Dallas Onslaught?" loading="lazy">
+            <div class="card-content">
+                <h3>THE LUKA PARADOX: Can Minnesota's No. 1 Defense Survive the Dallas Onslaught?</h3>
+                <p>How do you stop a player who thrives on your best efforts to stop him? That is the terrifying questi...</p>
+                <span class="date">2025-12-31</span>
+            </div>
+        </a>
+    </div>
+    
+    <footer>
+        <p>© 2026 Sport999. All Rights Reserved.</p>
+        <p><a href="/">Home</a> • <a href="/about-us.html">About</a> • <a href="/contact.html">Contact</a></p>
+    </footer>
+</body>
+</html>
