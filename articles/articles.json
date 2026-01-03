@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "KNOCKOUT IN CARACAS: THE 2026 PLAYBOOK THAT SNATCHED MADURO FROM THE PALACE",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/872/1600/900",
+      "excerpt": "Did you see the scoreboard this morning? If you didn’t, check the tape. The ultimate \"away game\" jus...",
+      "date": "2026-01-03",
+      "author": "Sport999 Team",
+      "url": "/articles/knockout-in-caracas-the-2026-playbook-that-snatche-1767448869051.html"
+    },
+    {
+      "id": 21,
       "title": "THE DESERT ESCAPE: Why João Cancelo is Desperate to Trade Saudi Gold for San Sir",
       "category": "exclusive",
       "image": "https://icdn.football-italia.net/wp-content/uploads/2025/12/portugal-v-armenia-fifa-world-cup-2026-qualifier.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-final-buzzer-who-got-cut-from-the-hawkins-rost-1767243671718.html"
-    },
-    {
-      "id": 20,
-      "title": "The Ghost of 2003 and the Texas Beatdown: Can Ohio State Survive the Miami Storm",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/mpVQwu6.jpeg",
-      "excerpt": "Is the \"U\" finally back, or is Ohio State simply collapsing under the weight of a $20 million roster...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-ghost-of-2003-and-the-texas-beatdown-can-ohio--1767232868312.html"
     }
   ]
 }
