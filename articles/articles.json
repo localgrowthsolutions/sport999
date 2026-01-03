@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE VINOTINTO MIRACLE: Is Venezuela Finally Ready to Shatter the Greatest Curse ",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/860/1600/900",
+      "excerpt": "Can you feel the shift in the air? If you look at the CONMEBOL standings right now, you might need t...",
+      "date": "2026-01-03",
+      "author": "Sport999 Team",
+      "url": "/articles/the-vinotinto-miracle-is-venezuela-finally-ready-t-1767427261887.html"
+    },
+    {
+      "id": 21,
       "title": "The Hollywood Heist: Can Ja Morant’s Grizzlies Survive the LeBron-Luka Juggernau",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/350/1600/900",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-madrid-ultimatum-why-florentino-prez-just-put--1767222076468.html"
-    },
-    {
-      "id": 21,
-      "title": "The $3 Million Benchwarmer: Is Arch Manning’s Patience the Smartest Gamble in Fo",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/YToumNQ.jpeg",
-      "excerpt": "Can a player who spends most of his time holding a clipboard actually be the most influential figure...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-3-million-benchwarmer-is-arch-mannings-patienc-1767222055554.html"
     }
   ]
 }
