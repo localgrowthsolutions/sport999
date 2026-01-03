@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Guardiola Hegemony: 329 Days of Tactical Suffocation and the Shambles of a D",
+      "category": "exclusive",
+      "image": "https://img.etimg.com/thumb/msid-126296609,width-1200,height-630,imgsize-825443,overlay-economictimes/articleshow.jpg",
+      "excerpt": "Can a genius become a victim of his own ubiquity? For the better part of a decade, the Premier Leagu...",
+      "date": "2026-01-03",
+      "author": "Sport999 Team",
+      "url": "/articles/the-guardiola-hegemony-329-days-of-tactical-suffoc-1767405678485.html"
+    },
+    {
+      "id": 21,
       "title": "THE BILLION-DOLLAR HEIST: How Everett Rinsed the Krafts While the Revs Ghost Thr",
       "category": "exclusive",
       "image": "https://www.bostonherald.com/wp-content/uploads/2024/04/04-02_Everett-Stadium.jpg?w=1024&h=579",
@@ -189,16 +199,6 @@
       "date": "2025-12-31",
       "author": "Sport999 Team",
       "url": "/articles/the-red-wall-vs-the-mountain-peak-why-nebraska-vs--1767216205386.html"
-    },
-    {
-      "id": 20,
-      "title": "WILL STEPHEN CURRY’S HOMECOMING FINALLY EXPOSE THE WARRIORS' FRAILTY OR HUMILIAT",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/y62NKQa.jpeg",
-      "excerpt": "Is the Golden State dynasty finally gasping its last breath, or is it merely reinventing itself in t...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/will-stephen-currys-homecoming-finally-expose-the--1767215428533.html"
     }
   ]
 }
