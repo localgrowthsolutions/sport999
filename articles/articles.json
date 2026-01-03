@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The “Rat” Who Ruined Cornellà: Why Barcelona’s Derby Stunner Proves the Power Sh",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/755/1600/900",
+      "excerpt": "Does a sixteen-year curse ever truly break, or does it just get heavier with every passing season? F...",
+      "date": "2026-01-03",
+      "author": "Sport999 Team",
+      "url": "/articles/the-rat-who-ruined-cornell-why-barcelonas-derby-st-1767481270937.html"
+    },
+    {
+      "id": 21,
       "title": "THE LAST OF THE INDEPENDABLES: Why Mackenzie Barnard’s USCA Exit Is a Tactical C",
       "category": "exclusive",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-apple-tv-2026-takeover-tactical-genius-or-the--1767276074671.html"
-    },
-    {
-      "id": 21,
-      "title": "THE SAUDI EXODUS BEGINS: Why Joao Cancelo’s Shock Exit Is a Middle Finger to the",
-      "category": "exclusive",
-      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20251231_WST_612927_ronaldo-cancelo.webp&width=1200&height=740",
-      "excerpt": "Is the Saudi Pro League dream already rotting from the inside out? Just months after joining the Riy...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-saudi-exodus-begins-why-joao-cancelos-shock-ex-1767265273033.html"
     }
   ]
 }
