@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE LIGHTS GO OUT IN CARACAS: Delta Force Secures the $50 Million Bounty",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/632/1600/900",
+      "excerpt": "Is this the greatest upset in the history of the Western Hemisphere? For over a decade, Nicolás Madu...",
+      "date": "2026-01-03",
+      "author": "Sport999 Team",
+      "url": "/articles/the-lights-go-out-in-caracas-delta-force-secures-t-1767438069196.html"
+    },
+    {
+      "id": 21,
       "title": "The Hard Truth: Grandma’s Masterstroke",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/dog_time_927/57612eaa3377e15bcf5af0cb73b4ae58",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-ghost-of-2003-and-the-texas-beatdown-can-ohio--1767232868312.html"
-    },
-    {
-      "id": 21,
-      "title": "THE MADRID ULTIMATUM: Why Florentino Pérez Just Put a Hit on Mastantuono’s World",
-      "category": "exclusive",
-      "image": "https://i.imgur.com/qVX0k4J.jpeg",
-      "excerpt": "Is a teenage prodigy’s career worth more than a seat on the Real Madrid private jet? That is the £40...",
-      "date": "2025-12-31",
-      "author": "Sport999 Team",
-      "url": "/articles/the-madrid-ultimatum-why-florentino-prez-just-put--1767222076468.html"
     }
   ]
 }
