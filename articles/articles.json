@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Elland Road’s Cauldron: Aaronson, Cunha, and the Brutal Reality of the Roses Riv",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/100/1600/900",
+      "excerpt": "When was the last time a 1-1 draw felt like a literal war of attrition? Most modern Premier League f...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/elland-roads-cauldron-aaronson-cunha-and-the-bruta-1767535268751.html"
+    },
+    {
+      "id": 21,
       "title": "BRADY BLINDSIDES BECKHAM: The Cold-Blooded Hijack That Shook the Global Game",
       "category": "exclusive",
       "image": "https://phantom.estaticos-marca.com/17de11e4d6f996a3c81f23bf64e65482/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/03/17674368599235.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/the-bosman-heist-how-pre-contracts-are-killing-the-1767340873561.html"
-    },
-    {
-      "id": 21,
-      "title": "WHY THE TOMATO BOWL JUST EXPOSED THE PLASTIC SOUL OF MODERN FOOTBALL: A TACTICAL",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-      "excerpt": "Is the soul of football being auctioned off to the highest bidder in exchange for air-conditioned ex...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/why-the-tomato-bowl-just-exposed-the-plastic-soul--1767330076519.html"
     }
   ]
 }
