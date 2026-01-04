@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE SCOREBOARD IS A LIAR: WHY THE 2026 SPORTS CALENDAR IS NOW A POLITICAL BATTLE",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/542/1600/900",
+      "excerpt": "Does the final score even matter when the stadium itself is a geopolitical monument? We are currentl...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-scoreboard-is-a-liar-why-the-2026-sports-calen-1767524461691.html"
+    },
+    {
+      "id": 21,
       "title": "PSG’s UAE Jackpot: Financial Fair Play Masterstroke or Just Another Billion-Euro",
       "category": "exclusive",
       "image": "https://s.yimg.com/ny/api/res/1.2/2I8UQhgwMtInhH4ZLV4wxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTA7Y2Y9d2VicA--/https://media.zenfs.com/en/psg_world_articles_934/e6ce590b13827c061062525b802f305e",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/why-the-tomato-bowl-just-exposed-the-plastic-soul--1767330076519.html"
-    },
-    {
-      "id": 21,
-      "title": "The Oxford Gamble: Is Ole Miss Football Finally Ready to Cash Its Billion-Dollar",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/983/1600/900",
-      "excerpt": "Can a program built on the fly, fueled by the transfer portal, and led by a coaching staff currently...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/the-oxford-gamble-is-ole-miss-football-finally-rea-1767319291703.html"
     }
   ]
 }
