@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Macdonald Manifesto: How the Seattle Seahawks Broke the NFC and Reclaimed th",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/474/1600/900",
+      "excerpt": "Is Mike Macdonald a defensive warlock, or did John Schneider just pull off the greatest roster heist...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-macdonald-manifesto-how-the-seattle-seahawks-b-1767492067020.html"
+    },
+    {
+      "id": 21,
       "title": "The Great Betrayal? Why Luka Modric Just Ended the GOAT Debate for Every Tactica",
       "category": "exclusive",
       "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260102_WST_613410_lionel-messi-argentina-cristiano-ronaldo-portugal.webp&width=1200&height=740",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-delusion-of-the-goat-why-ronaldos-shameless-go-1767286876514.html"
-    },
-    {
-      "id": 21,
-      "title": "The Apple TV 2026 Takeover: Tactical Genius or the Death of the Beautiful Game?",
-      "category": "exclusive",
-      "image": "https://www.cultofmac.com/wp-content/uploads/2025/12/Highly-anticipated-Apple-TV-shows.jpg.webp",
-      "excerpt": "Does the soul of football belong in a boardroom in Cupertino or on the muddy terraces of Northern En...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-apple-tv-2026-takeover-tactical-genius-or-the--1767276074671.html"
     }
   ]
 }
