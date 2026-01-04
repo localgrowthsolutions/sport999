@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The 13-3 Disaster: How the 49ers Just Threw Away the NFC Throne",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/866/1600/900",
+      "excerpt": "How does the most explosive offense in the National Football League turn into a stagnant, three-poin...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-13-3-disaster-how-the-49ers-just-threw-away-th-1767502888700.html"
+    },
+    {
+      "id": 21,
       "title": "THE LITTLER REVOLUTION: Why the 18-Year-Old Phenom is Playing 'Total Darts' and ",
       "category": "exclusive",
       "image": "https://www.rollingstone.com/wp-content/uploads/2026/01/watch-world-darts-championship-2026.jpg?w=1024&h=683&crop=1",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-beckham-schism-why-brooklyns-2025-snub-signals-1767308470506.html"
-    },
-    {
-      "id": 21,
-      "title": "THE FOXBOROUGH EXILE IS ENDING: WHY THE EVERETT STADIUM DEAL IS THE REVOLUTION’S",
-      "category": "exclusive",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/11/WNLWKUPTQVU5G7ZG6PSAMFZFEQ-673512b4a6ad2-768x432.jpg",
-      "excerpt": "Is a football club truly a club if it’s playing in a borrowed cathedral of another sport, thirty mil...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-foxborough-exile-is-ending-why-the-everett-sta-1767297676751.html"
     }
   ]
 }
