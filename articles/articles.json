@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The $300 Million Cold War: Why Jaylen Brown Is Now the Most Dangerous Man in the",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/58/1600/900",
+      "excerpt": "Is there a louder silence in professional sports than the one Jaylen Brown leaves in his wake? Think...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-300-million-cold-war-why-jaylen-brown-is-now-t-1767513665257.html"
+    },
+    {
+      "id": 21,
       "title": "The 13-3 Disaster: How the 49ers Just Threw Away the NFC Throne",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/866/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/the-oxford-gamble-is-ole-miss-football-finally-rea-1767319291703.html"
-    },
-    {
-      "id": 21,
-      "title": "THE BECKHAM SCHISM: Why Brooklyn’s 2025 Snub Signals a Ruthless Tactical Purge a",
-      "category": "exclusive",
-      "image": "https://imagez.tmz.com/image/4a/16by9/2025/12/31/4a3bdd4eb9ef4727a7a0f93ca416c4c3_xl.jpg",
-      "excerpt": "Is the House of Beckham finally folding under the weight of its own ambition? On New Year’s Day, whi...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-beckham-schism-why-brooklyns-2025-snub-signals-1767308470506.html"
     }
   ]
 }
