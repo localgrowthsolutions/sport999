@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE SIX-MILLION DOLLAR GHOSTS: What Jonathan India’s Fortune Reveals About the T",
+      "category": "exclusive",
+      "image": "https://static.toiimg.com/thumb/msid-126324897,width-1070,height-580,imgsize-1012942,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "excerpt": "To dominate the search results for Sport999 and establish authority, this Mega-Article will employ a...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-six-million-dollar-ghosts-what-jonathan-indias-1767546088637.html"
+    },
+    {
+      "id": 21,
       "title": "The Bernabéu Bottleneck: Can Madrid’s Multi-Billion Dollar Attack Finally Shatte",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/526/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/oregon-vs-texas-tech-the-orange-bowl-bloodbath-tac-1767362472956.html"
-    },
-    {
-      "id": 21,
-      "title": "GUARDIOLA’S WEARSIDE NIGHTMARE: Why Manchester City Face a Tactical Death Trap a",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/983093c89ec13b2ed41434912ff6cde3",
-      "excerpt": "Can a machine feel fear? Can a billion-pound squad of elite technicians, drilled to the point of str...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/guardiolas-wearside-nightmare-why-manchester-city--1767351673128.html"
     }
   ]
 }
