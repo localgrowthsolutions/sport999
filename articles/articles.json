@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Bernabéu Bottleneck: Can Madrid’s Multi-Billion Dollar Attack Finally Shatte",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/526/1600/900",
+      "excerpt": "Is the most expensive frontline in football history actually allergic to the Real Betis low block? I...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-bernabu-bottleneck-can-madrids-multi-billion-d-1767546061854.html"
+    },
+    {
+      "id": 21,
       "title": "LEVEL-5’S MASTERCLASS: WHY INAZUMA ELEVEN: VICTORY ROAD IS THE TACTICAL REVOLUTI",
       "category": "match",
       "image": "https://www.siliconera.com/wp-content/uploads/2025/12/20251224134752-01kd6y5vg3vwhmjwpv034dwvya-e1767073340395.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/guardiolas-wearside-nightmare-why-manchester-city--1767351673128.html"
-    },
-    {
-      "id": 21,
-      "title": "The Bosman Heist: How Pre-Contracts Are Killing the Transfer Fee and Destroying ",
-      "category": "transfer",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/4de993eebc7358aecb54cc2c5ddf6683",
-      "excerpt": "Why pay £100 million for a world-class playmaker when you can simply whisper in his ear six months e...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/the-bosman-heist-how-pre-contracts-are-killing-the-1767340873561.html"
     }
   ]
 }
