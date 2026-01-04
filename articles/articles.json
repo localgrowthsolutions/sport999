@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE LITTLER REVOLUTION: Why the 18-Year-Old Phenom is Playing 'Total Darts' and ",
+      "category": "exclusive",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/01/watch-world-darts-championship-2026.jpg?w=1024&h=683&crop=1",
+      "excerpt": "Is it possible to bottle lightning twice? If your name is Luke Littler, the answer isn’t just a \"yes...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-littler-revolution-why-the-18-year-old-phenom--1767502876661.html"
+    },
+    {
+      "id": 21,
       "title": "THE DUBLIN DERBY FOR THE PRODIGAL SON: Why Bohs and Rovers Are Risking Everythin",
       "category": "exclusive",
       "image": "https://focus.independent.ie/thumbor/aYyLkUTx89-AxjWWI_XUinb6uRY=/0x38:3126x2122/629x0/prod-mh-ireland/525bfb78-b04d-4895-9122-39c3119cd647/6cd22020-ce93-4114-b690-839cd1885e66/525bfb78-b04d-4895-9122-39c3119cd647.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-01",
       "author": "Sport999 Team",
       "url": "/articles/the-foxborough-exile-is-ending-why-the-everett-sta-1767297676751.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DELUSION OF THE GOAT: Why Ronaldo’s ‘Shameless’ Goal Claim Signals The End o",
-      "category": "exclusive",
-      "image": "https://brobible.com/wp-content/uploads/2025/12/ronaldo-celebration.jpg",
-      "excerpt": "Is there a more tragic sight in sport than a king who refuses to acknowledge his crown has slipped? ...",
-      "date": "2026-01-01",
-      "author": "Sport999 Team",
-      "url": "/articles/the-delusion-of-the-goat-why-ronaldos-shameless-go-1767286876514.html"
     }
   ]
 }
