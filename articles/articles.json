@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Blue Civil War: Is Chelsea’s Billion-Pound Chaos Finally Ready to Topple Man",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/60/1600/900",
+      "excerpt": "Can you actually buy a soul? Can you spend a billion dollars on potential and expect it to outmuscle...",
+      "date": "2026-01-04",
+      "author": "Sport999 Team",
+      "url": "/articles/the-blue-civil-war-is-chelseas-billion-pound-chaos-1767556858034.html"
+    },
+    {
+      "id": 21,
       "title": "THE SIX-MILLION DOLLAR GHOSTS: What Jonathan India’s Fortune Reveals About the T",
       "category": "exclusive",
       "image": "https://static.toiimg.com/thumb/msid-126324897,width-1070,height-580,imgsize-1012942,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/2026-the-tactical-apocalypse-and-the-death-of-prop-1767373273599.html"
-    },
-    {
-      "id": 21,
-      "title": "OREGON VS TEXAS TECH: THE ORANGE BOWL BLOODBATH – TACTICAL MASTERCLASS OR DEFENS",
-      "category": "exclusive",
-      "image": "https://i.insider.com/69556c1964858d02d2179b7a?width=1200&format=jpeg",
-      "excerpt": "Is the Orange Bowl about to witness a tactical slaughter, or are we looking at the greatest heist in...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/oregon-vs-texas-tech-the-orange-bowl-bloodbath-tac-1767362472956.html"
     }
   ]
 }
