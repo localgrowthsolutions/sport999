@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Amorim Awakening: Can a Tactical Architect Survive the Manchester United Mea",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/214/1600/900",
+      "excerpt": "Is Rúben Amorim the savior Manchester United deserves, or just the latest sacrifice to the gods of O...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/the-amorim-awakening-can-a-tactical-architect-surv-1767621665237.html"
+    },
+    {
+      "id": 21,
       "title": "THE DEATH OF THE OFF-SEASON: Why Unrivaled’s 2026 Schedule is a Tactical Masterc",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/db9931368b86396067760e18b12ec4f9",
@@ -189,16 +199,6 @@
       "date": "2026-01-03",
       "author": "Sport999 Team",
       "url": "/articles/artetas-january-nightmare-can-arsenal-survive-the--1767448873314.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DESERT ESCAPE: Why João Cancelo is Desperate to Trade Saudi Gold for San Sir",
-      "category": "exclusive",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2025/12/portugal-v-armenia-fifa-world-cup-2026-qualifier.jpg",
-      "excerpt": "Is the Saudi Arabian dream already turning into a tactical nightmare for the world’s most gifted inv...",
-      "date": "2026-01-03",
-      "author": "Sport999 Team",
-      "url": "/articles/the-desert-escape-why-joo-cancelo-is-desperate-to--1767438073681.html"
     }
   ]
 }
