@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "SPEED KILLS THE CONTRACT: WHY CAR ACCIDENT LAWYERS ARE THE NEWEST FIRST-ROUND DR",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/141/1600/900",
+      "excerpt": "The engine roars. The lights flash. The contract vanishes....",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/speed-kills-the-contract-why-car-accident-lawyers--1767610858757.html"
+    },
+    {
+      "id": 21,
       "title": "Forget the Script: Why Postecoglou’s Tactical Arrogance Makes Sunderland the Ult",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/598349c1f7b15dfd5592d45c2ea6bb23",
@@ -189,16 +199,6 @@
       "date": "2026-01-03",
       "author": "Sport999 Team",
       "url": "/articles/the-hard-truth-grandmas-masterstroke-1767427279259.html"
-    },
-    {
-      "id": 21,
-      "title": "The Hollywood Heist: Can Ja Morant’s Grizzlies Survive the LeBron-Luka Juggernau",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/350/1600/900",
-      "excerpt": "Does anyone actually believe the Memphis Grizzlies can survive their own shadow? As the clock ticks ...",
-      "date": "2026-01-03",
-      "author": "Sport999 Team",
-      "url": "/articles/the-hollywood-heist-can-ja-morants-grizzlies-survi-1767416489955.html"
     }
   ]
 }
