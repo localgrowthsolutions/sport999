@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Beyond the Muscle: The Resurrection of Jayne Trcka and the New Era of Hypertroph",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/429/1600/900",
+      "excerpt": "Can a single physique redefine the boundaries of human potential? Is it possible for a pioneer from ...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/beyond-the-muscle-the-resurrection-of-jayne-trcka--1767654058007.html"
+    },
+    {
+      "id": 21,
       "title": "The $1,000,000 Insurance Policy: Why Dayne St. Clair is the Only Man Who Can Sav",
       "category": "exclusive",
       "image": "https://i.cbc.ca/ais/10f90206-4d15-4a5a-b59b-bbcb1b2474a5,1767554749506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D620",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/the-littler-revolution-why-the-18-year-old-phenom--1767502876661.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DUBLIN DERBY FOR THE PRODIGAL SON: Why Bohs and Rovers Are Risking Everythin",
-      "category": "exclusive",
-      "image": "https://focus.independent.ie/thumbor/aYyLkUTx89-AxjWWI_XUinb6uRY=/0x38:3126x2122/629x0/prod-mh-ireland/525bfb78-b04d-4895-9122-39c3119cd647/6cd22020-ce93-4114-b690-839cd1885e66/525bfb78-b04d-4895-9122-39c3119cd647.jpg",
-      "excerpt": "Is the King of the League of Ireland really coming home to the wrong castle?...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/the-dublin-derby-for-the-prodigal-son-why-bohs-and-1767492075513.html"
     }
   ]
 }
