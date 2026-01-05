@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "PHARAOHS UNDER FIRE OR CHEETAHS ON THE PROWL? THE BRUTAL REALITY OF EGYPT VS. BE",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/439/1600/900",
+      "excerpt": "Can a dynasty survive on reputation alone? Seven Africa Cup of Nations titles sit in the trophy cabi...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/pharaohs-under-fire-or-cheetahs-on-the-prowl-the-b-1767632459203.html"
+    },
+    {
+      "id": 21,
       "title": "CHAOS IN THE NORTH: Donegal vs Derry Postponement Leaves Mickey Harte Fuming as ",
       "category": "exclusive",
       "image": "https://www.rte.ie/images/001f7009-1600.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-03",
       "author": "Sport999 Team",
       "url": "/articles/the-gotham-heist-why-savannah-mccaskill-to-njny-is-1767459675990.html"
-    },
-    {
-      "id": 21,
-      "title": "Arteta’s January Nightmare: Can Arsenal Survive the Vitality Pressure Cooker or ",
-      "category": "exclusive",
-      "image": "https://sportshub.cbsistatic.com/i/r/2026/01/01/b880fdb4-769e-4fa2-a89f-931ab4e39aca/thumbnail/1200x675/ad847bd118ab9e546b52426dfe86bc6f/mikel-arteta.jpg",
-      "excerpt": "Can Mikel Arteta’s tactical machine handle the heat when the festive glitter fades and the cold real...",
-      "date": "2026-01-03",
-      "author": "Sport999 Team",
-      "url": "/articles/artetas-january-nightmare-can-arsenal-survive-the--1767448873314.html"
     }
   ]
 }
