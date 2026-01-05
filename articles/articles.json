@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The $1,000,000 Insurance Policy: Why Dayne St. Clair is the Only Man Who Can Sav",
+      "category": "exclusive",
+      "image": "https://i.cbc.ca/ais/10f90206-4d15-4a5a-b59b-bbcb1b2474a5,1767554749506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D620",
+      "excerpt": "Is David Beckham finally tired of watching his \"Galacticos\" get carved open like a Sunday League sid...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/the-1000000-insurance-policy-why-dayne-st-clair-is-1767643277147.html"
+    },
+    {
+      "id": 21,
       "title": "The Super Eagles’ Identity Crisis: Can Nigeria Survive the Mamba Bite?",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/495/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/the-dublin-derby-for-the-prodigal-son-why-bohs-and-1767492075513.html"
-    },
-    {
-      "id": 21,
-      "title": "The Great Betrayal? Why Luka Modric Just Ended the GOAT Debate for Every Tactica",
-      "category": "exclusive",
-      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260102_WST_613410_lionel-messi-argentina-cristiano-ronaldo-portugal.webp&width=1200&height=740",
-      "excerpt": "Who else but Luka? The man who shattered the duopoly. The Croatian wizard who snatched a Ballon d’Or...",
-      "date": "2026-01-03",
-      "author": "Sport999 Team",
-      "url": "/articles/the-great-betrayal-why-luka-modric-just-ended-the--1767481272548.html"
     }
   ]
 }
