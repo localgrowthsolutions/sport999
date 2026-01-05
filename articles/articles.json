@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Pittsburgh Paradox: Is the \"Steelers Way\" a Championship Roadmap or a Highwa",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/6/1600/900",
+      "excerpt": "Is a winning record enough when the trophy case hasn’t seen a new addition in nearly two decades? Th...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/the-pittsburgh-paradox-is-the-steelers-way-a-champ-1767578464256.html"
+    },
+    {
+      "id": 21,
       "title": "The Lincoln Financial Fiasco: Are the Eagles Throwing Away a Super Bowl Run for ",
       "category": "match",
       "image": "https://picsum.photos/seed/502/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-02",
       "author": "Sport999 Team",
       "url": "/articles/the-billion-dollar-heist-how-everett-rinsed-the-kr-1767394874951.html"
-    },
-    {
-      "id": 21,
-      "title": "TACTICAL REASONING: THE \"AUTHENTICITY\" CRISIS",
-      "category": "exclusive",
-      "image": "https://www.irishtimes.com/resizer/v2/3R4KYUK7Z5HLXEY33J7YX2PUGE.jpg?smart=true&auth=c95f9b2b7b4b9009af7e578ae003282996059e12c5d8a1ff26533badc343cc4e&width=1200&height=630",
-      "excerpt": "To construct this Mega-Article, I am synthesizing the Irish Times’ philosophical stance on authentic...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/tactical-reasoning-the-authenticity-crisis-1767384080161.html"
     }
   ]
 }
