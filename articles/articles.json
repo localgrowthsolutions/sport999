@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The King is Naked: How a Thai League \"Nobody\" Just Humiliated Cristiano Ronaldo ",
+      "category": "exclusive",
+      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260104_WST_613836_ronaldo-al-nassr-2.webp&width=1200&height=740",
+      "excerpt": "They said he was inevitable. They said the goals would never stop flowing, regardless of the heat, t...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/the-king-is-naked-how-a-thai-league-nobody-just-hu-1767632481268.html"
+    },
+    {
+      "id": 21,
       "title": "PHARAOHS UNDER FIRE OR CHEETAHS ON THE PROWL? THE BRUTAL REALITY OF EGYPT VS. BE",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/439/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-03",
       "author": "Sport999 Team",
       "url": "/articles/the-last-of-the-independables-why-mackenzie-barnar-1767470474933.html"
-    },
-    {
-      "id": 21,
-      "title": "THE GOTHAM HEIST: WHY SAVANNAH MCCASKILL TO NJ/NY IS TACTICAL SUICIDE FOR THE RE",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vwF2LGk9ZcOxJ78SLiAZCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/12d5ac3634bbc1e0b591c4e580c4cf3c",
-      "excerpt": "Is the NWSL becoming a one-team race, or has San Diego Wave simply lost the plot? The news hit the w...",
-      "date": "2026-01-03",
-      "author": "Sport999 Team",
-      "url": "/articles/the-gotham-heist-why-savannah-mccaskill-to-njny-is-1767459675990.html"
     }
   ]
 }
