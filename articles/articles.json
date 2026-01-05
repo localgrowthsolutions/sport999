@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Steel City Stalemate: Is Mike Tomlin’s ‘Standard’ a Gateway to Glory or a Tr",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/289/1600/900",
+      "excerpt": "How long can a franchise survive on the fumes of \"not losing\"? Since 2016, the Pittsburgh Steelers h...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/the-steel-city-stalemate-is-mike-tomlins-standard--1767589264964.html"
+    },
+    {
+      "id": 21,
       "title": "The Carolina Heist: Why the Bryce Young Experiment is Football’s Costliest Tacti",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/a8d84da271727d6fd831f2990b7fe4f6",
@@ -189,16 +199,6 @@
       "date": "2026-01-03",
       "author": "Sport999 Team",
       "url": "/articles/midnight-in-san-diego-is-arizonas-defense-still-st-1767405690163.html"
-    },
-    {
-      "id": 21,
-      "title": "THE BILLION-DOLLAR HEIST: How Everett Rinsed the Krafts While the Revs Ghost Thr",
-      "category": "exclusive",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2024/04/04-02_Everett-Stadium.jpg?w=1024&h=579",
-      "excerpt": "Is this a football club or a charitable foundation for the city of Everett? While the New England Re...",
-      "date": "2026-01-02",
-      "author": "Sport999 Team",
-      "url": "/articles/the-billion-dollar-heist-how-everett-rinsed-the-kr-1767394874951.html"
     }
   ]
 }
