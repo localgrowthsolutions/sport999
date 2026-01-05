@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Super Eagles’ Identity Crisis: Can Nigeria Survive the Mamba Bite?",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/495/1600/900",
+      "excerpt": "How many times can a giant sleep before it finally gets devoured in its slumber? That is the questio...",
+      "date": "2026-01-05",
+      "author": "Sport999 Team",
+      "url": "/articles/the-super-eagles-identity-crisis-can-nigeria-survi-1767643256102.html"
+    },
+    {
+      "id": 21,
       "title": "The King is Naked: How a Thai League \"Nobody\" Just Humiliated Cristiano Ronaldo ",
       "category": "exclusive",
       "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260104_WST_613836_ronaldo-al-nassr-2.webp&width=1200&height=740",
@@ -189,16 +199,6 @@
       "date": "2026-01-03",
       "author": "Sport999 Team",
       "url": "/articles/the-great-betrayal-why-luka-modric-just-ended-the--1767481272548.html"
-    },
-    {
-      "id": 21,
-      "title": "THE LAST OF THE INDEPENDABLES: Why Mackenzie Barnard’s USCA Exit Is a Tactical C",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-      "excerpt": "How do you replace the heartbeat of a backline? You don’t. You simply pray the fallout doesn't burn ...",
-      "date": "2026-01-03",
-      "author": "Sport999 Team",
-      "url": "/articles/the-last-of-the-independables-why-mackenzie-barnar-1767470474933.html"
     }
   ]
 }
