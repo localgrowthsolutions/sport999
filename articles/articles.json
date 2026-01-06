@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The California Cold War: Can Steph Curry and James Harden Save a Fading Rivalry?",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/812/1600/900",
+      "excerpt": "Is the Golden Era finally over, or are we just witnessing the most expensive mid-life crisis in prof...",
+      "date": "2026-01-06",
+      "author": "Sport999 Team",
+      "url": "/articles/the-california-cold-war-can-steph-curry-and-james--1767675659066.html"
+    },
+    {
+      "id": 21,
       "title": "THE DEATH OF THE DYNASTY? WHY PEP’S CITY EMPIRE IS CRUMBLING INTO TACTICAL ANARC",
       "category": "exclusive",
       "image": "https://blog.domesoccer.jp/app/wp-content/uploads/2019/06/01-1.png?v=1767577490",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/psgs-uae-jackpot-financial-fair-play-masterstroke--1767513672713.html"
-    },
-    {
-      "id": 21,
-      "title": "The 13-3 Disaster: How the 49ers Just Threw Away the NFC Throne",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/866/1600/900",
-      "excerpt": "How does the most explosive offense in the National Football League turn into a stagnant, three-poin...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/the-13-3-disaster-how-the-49ers-just-threw-away-th-1767502888700.html"
     }
   ]
 }
