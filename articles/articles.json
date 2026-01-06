@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The French Connection: Is Liam Rosenior the Best English Manager You’re Not Watc",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/391/1600/900",
+      "excerpt": "Can a manager be too good for his own good? Is it possible to be fired for the very thing that makes...",
+      "date": "2026-01-06",
+      "author": "Sport999 Team",
+      "url": "/articles/the-french-connection-is-liam-rosenior-the-best-en-1767697260686.html"
+    },
+    {
+      "id": 21,
       "title": "The Tactical Death of an Empire: Why Pep’s Manchester City Has Finally Hit the S",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/cc415419fcaa2a68bf1d803f6b2b0db7",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/level-5s-masterclass-why-inazuma-eleven-victory-ro-1767535280221.html"
-    },
-    {
-      "id": 21,
-      "title": "BRADY BLINDSIDES BECKHAM: The Cold-Blooded Hijack That Shook the Global Game",
-      "category": "exclusive",
-      "image": "https://phantom.estaticos-marca.com/17de11e4d6f996a3c81f23bf64e65482/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/03/17674368599235.jpg",
-      "excerpt": "1.  The Objective: Establish a narrative of \"Old World vs. New Ambition.\" Tom Brady’s involvement at...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/brady-blindsides-beckham-the-cold-blooded-hijack-t-1767524478824.html"
     }
   ]
 }
