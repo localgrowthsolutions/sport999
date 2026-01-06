@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "BUBBLES BURSTING IN THE EAST END: WHY WEST HAM VS NOTTINGHAM FOREST IS A FUNERAL",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/980/1600/900",
+      "excerpt": "Can a football club die in ninety minutes? Not literally, of course. But the soul of a Premier Leagu...",
+      "date": "2026-01-06",
+      "author": "Sport999 Team",
+      "url": "/articles/bubbles-bursting-in-the-east-end-why-west-ham-vs-n-1767729666065.html"
+    },
+    {
+      "id": 21,
       "title": "Breaking News",
       "category": "exclusive",
       "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/776316800.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/diamonds-on-the-field-or-dust-in-the-wind-why-emek-1767556876585.html"
-    },
-    {
-      "id": 21,
-      "title": "THE SIX-MILLION DOLLAR GHOSTS: What Jonathan India’s Fortune Reveals About the T",
-      "category": "exclusive",
-      "image": "https://static.toiimg.com/thumb/msid-126324897,width-1070,height-580,imgsize-1012942,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "excerpt": "To dominate the search results for Sport999 and establish authority, this Mega-Article will employ a...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/the-six-million-dollar-ghosts-what-jonathan-indias-1767546088637.html"
     }
   ]
 }
