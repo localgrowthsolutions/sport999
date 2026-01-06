@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Garden Massacre: Why the Knicks are Hunting and the Pistons are Still Just B",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/506/1600/900",
+      "excerpt": "Is the \"World’s Most Famous Arena\" becoming a house of horrors for the rest of the league, or are th...",
+      "date": "2026-01-06",
+      "author": "Sport999 Team",
+      "url": "/articles/the-garden-massacre-why-the-knicks-are-hunting-and-1767664858347.html"
+    },
+    {
+      "id": 21,
       "title": "The American Hegemony is Crumbling: Why the NWSL is Losing the Tactical Arms Rac",
       "category": "exclusive",
       "image": "https://media.newyorker.com/photos/69583e75705bf450e431060d/16:9/w_1280,c_limit/Thomas_Rodman_GettyImages-2248144141.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/the-13-3-disaster-how-the-49ers-just-threw-away-th-1767502888700.html"
-    },
-    {
-      "id": 21,
-      "title": "THE LITTLER REVOLUTION: Why the 18-Year-Old Phenom is Playing 'Total Darts' and ",
-      "category": "exclusive",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/01/watch-world-darts-championship-2026.jpg?w=1024&h=683&crop=1",
-      "excerpt": "Is it possible to bottle lightning twice? If your name is Luke Littler, the answer isn’t just a \"yes...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/the-littler-revolution-why-the-18-year-old-phenom--1767502876661.html"
     }
   ]
 }
