@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE KERR PARADOX: IS THE ARCHITECT OF THE NBA’S GREATEST DYNASTY SAVING THE WARR",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/714/1600/900",
+      "excerpt": "How many coaches could lose a Hall of Fame shooting guard, fail to land a secondary superstar in the...",
+      "date": "2026-01-06",
+      "author": "Sport999 Team",
+      "url": "/articles/the-kerr-paradox-is-the-architect-of-the-nbas-grea-1767686461108.html"
+    },
+    {
+      "id": 21,
       "title": "THE DEATH OF THE SCOUT? HOW SAMSUNG’S CES 2026 AI REVOLUTION IS ABOUT TO EMBARRA",
       "category": "exclusive",
       "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/01/05121730/Samsung-Corporate-CES-2026-Samsung-Presents-%E2%80%98Your-Companion-to-AI-Living-at-The-First-Look_Thumb932-2.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/brady-blindsides-beckham-the-cold-blooded-hijack-t-1767524478824.html"
-    },
-    {
-      "id": 21,
-      "title": "PSG’s UAE Jackpot: Financial Fair Play Masterstroke or Just Another Billion-Euro",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2I8UQhgwMtInhH4ZLV4wxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MTA7Y2Y9d2VicA--/https://media.zenfs.com/en/psg_world_articles_934/e6ce590b13827c061062525b802f305e",
-      "excerpt": "Is the soul of the Parc des Princes officially for sale, or is this just the smartest bit of busines...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/psgs-uae-jackpot-financial-fair-play-masterstroke--1767513672713.html"
     }
   ]
 }
