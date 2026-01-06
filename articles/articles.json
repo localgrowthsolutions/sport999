@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE DAILY BLOODBATH: Is Today’s Wordle Hint the Only Thing Saving Your 300-Day S",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/749/1600/900",
+      "excerpt": "Can you feel the pressure? It’s 7:00 AM. You’re staring at a grid of empty white boxes. The coffee h...",
+      "date": "2026-01-06",
+      "author": "Sport999 Team",
+      "url": "/articles/the-daily-bloodbath-is-todays-wordle-hint-the-only-1767708061045.html"
+    },
+    {
+      "id": 21,
       "title": "THE MARGE CAPITULATION: Why the GOP’s Star Striker Just Bottled the Biggest Game",
       "category": "exclusive",
       "image": "https://media.newyorker.com/photos/6945bd740790a1f266fa6e50/16:9/w_1280,c_limit/r48147.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-04",
       "author": "Sport999 Team",
       "url": "/articles/the-bernabu-bottleneck-can-madrids-multi-billion-d-1767546061854.html"
-    },
-    {
-      "id": 21,
-      "title": "LEVEL-5’S MASTERCLASS: WHY INAZUMA ELEVEN: VICTORY ROAD IS THE TACTICAL REVOLUTI",
-      "category": "match",
-      "image": "https://www.siliconera.com/wp-content/uploads/2025/12/20251224134752-01kd6y5vg3vwhmjwpv034dwvya-e1767073340395.jpg",
-      "excerpt": "Can 4,500 players solve a decade of tactical stagnation? That is the £100-million-pound question. Fo...",
-      "date": "2026-01-04",
-      "author": "Sport999 Team",
-      "url": "/articles/level-5s-masterclass-why-inazuma-eleven-victory-ro-1767535280221.html"
     }
   ]
 }
