@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Hard Truth: Logistics in the Freezer",
+      "category": "exclusive",
+      "image": "https://dims.apnews.com/dims4/default/83ae539/2147483647/strip/true/crop/7578x4263+0+395/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F2c%2Fb3de400ec44e7ce27057af987763%2Fa667170b600541f3a9c59a8a05622388",
+      "excerpt": "The official word from the continent is grim. Deadly accidents in France. Travel disruptions across ...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/the-hard-truth-logistics-in-the-freezer-1767794476967.html"
+    },
+    {
+      "id": 21,
       "title": "The Ashby Doctrine: 11 Years of Tactical Chaos and Why the \"Gotcha\" Moment Redef",
       "category": "exclusive",
       "image": "https://mixandmatchmama.com/wp-content/uploads/2026/01/Ashby2025.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/chaos-in-the-north-donegal-vs-derry-postponement-l-1767621676364.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DEATH OF THE OFF-SEASON: Why Unrivaled’s 2026 Schedule is a Tactical Masterc",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/db9931368b86396067760e18b12ec4f9",
-      "excerpt": "Is the traditional sports calendar officially dead, or did Breanna Stewart just put it out of its mi...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/the-death-of-the-off-season-why-unrivaleds-2026-sc-1767610881833.html"
     }
   ]
 }
