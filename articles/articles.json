@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Nico Williams Betrayal? Why Barcelona vs. Athletic Club Is Now the Most Bitt",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/815/1600/900",
+      "excerpt": "Can a single \"no\" destroy a century of mutual respect? When Nico Williams decided to stay in Bilbao ...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/the-nico-williams-betrayal-why-barcelona-vs-athlet-1767816056953.html"
+    },
+    {
+      "id": 21,
       "title": "The London Stadium Standoff: Is Lopetegui Playing With Fire Against Nuno’s Count",
       "category": "exclusive",
       "image": "https://www.cnet.com/a/img/resize/beac69df6c641a408377d56c6b01666751acc469/hub/2026/01/05/e4470993-0c46-4cc0-86a0-e10e5267ab3e/gettyimages-2254485715.jpg?auto=webp&fit=crop&height=675&width=1200",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/the-super-eagles-identity-crisis-can-nigeria-survi-1767643256102.html"
-    },
-    {
-      "id": 21,
-      "title": "The King is Naked: How a Thai League \"Nobody\" Just Humiliated Cristiano Ronaldo ",
-      "category": "exclusive",
-      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260104_WST_613836_ronaldo-al-nassr-2.webp&width=1200&height=740",
-      "excerpt": "They said he was inevitable. They said the goals would never stop flowing, regardless of the heat, t...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/the-king-is-naked-how-a-thai-league-nobody-just-hu-1767632481268.html"
     }
   ]
 }
