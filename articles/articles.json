@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Is the Lakers’ Shadow Finally Suffocating New Orleans for Good?",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/257/1600/900",
+      "excerpt": "How much longer can the New Orleans Pelicans pretend this is a \"rivalry\" when it feels more like a r...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/is-the-lakers-shadow-finally-suffocating-new-orlea-1767751263000.html"
+    },
+    {
+      "id": 21,
       "title": "THE DEATH OF DOGMA: WHY PEP’S TACTICAL ARROGANCE HAS TURNED THE ETIHAD INTO A TH",
       "category": "exclusive",
       "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/california-post-1-split.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/the-red-devils-casino-why-ten-hags-tactical-anarch-1767589273553.html"
-    },
-    {
-      "id": 21,
-      "title": "The Carolina Heist: Why the Bryce Young Experiment is Football’s Costliest Tacti",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/a8d84da271727d6fd831f2990b7fe4f6",
-      "excerpt": "Is Bryce Young actually a footballer, or just a ghost haunting the backfield in a Charlotte jersey? ...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/the-carolina-heist-why-the-bryce-young-experiment--1767578476054.html"
     }
   ]
 }
