@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE SILENT STADIUM: WHY SCHOOL CLOSINGS ARE THE GREATEST THREAT TO THE AMERICAN ",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/290/1600/900",
+      "excerpt": "Can a city survive without its heartbeat? When the lights go out in a high school gymnasium for the ...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/the-silent-stadium-why-school-closings-are-the-gre-1767783664060.html"
+    },
+    {
+      "id": 21,
       "title": "The No Tail Revolution: Is Amorim Cutting the Rot or Just Rearranging Deckchairs",
       "category": "exclusive",
       "image": "https://0.soompi.io/wp-content/uploads/2026/01/05200549/no-tail-to-tell.jpeg",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/the-death-of-the-off-season-why-unrivaleds-2026-sc-1767610881833.html"
-    },
-    {
-      "id": 21,
-      "title": "SPEED KILLS THE CONTRACT: WHY CAR ACCIDENT LAWYERS ARE THE NEWEST FIRST-ROUND DR",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/141/1600/900",
-      "excerpt": "The engine roars. The lights flash. The contract vanishes....",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/speed-kills-the-contract-why-car-accident-lawyers--1767610858757.html"
     }
   ]
 }
