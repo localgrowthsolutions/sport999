@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The $60 MVP: Why the Fire TV Stick 4K Max is the Only Playmaker That Matters for",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/464/1600/900",
+      "excerpt": "Is your living room ready for a championship run, or are you still playing with a junior varsity set...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/the-60-mvp-why-the-fire-tv-stick-4k-max-is-the-onl-1767772868854.html"
+    },
+    {
+      "id": 21,
       "title": "Breaking News",
       "category": "exclusive",
       "image": "https://news.mit.edu/sites/default/files/images/202601/MIT-Sean-Luk-01-press.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/speed-kills-the-contract-why-car-accident-lawyers--1767610858757.html"
-    },
-    {
-      "id": 21,
-      "title": "Forget the Script: Why Postecoglou’s Tactical Arrogance Makes Sunderland the Ult",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/598349c1f7b15dfd5592d45c2ea6bb23",
-      "excerpt": "Can a team actually be too brave for their own good? It’s the question that keeps the N17 faithful a...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/forget-the-script-why-postecoglous-tactical-arroga-1767600073419.html"
     }
   ]
 }
