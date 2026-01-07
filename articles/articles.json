@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE CATWALK COUPS AND THE COLLAPSE OF THE CLEAN SHEET: Why KidSuper’s Aussie Ope",
+      "category": "exclusive",
+      "image": "https://wwd.com/wp-content/uploads/2026/01/KidSuper-Australian-Open.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Is the beautiful game dying at the hands of a tailor’s shears? When Colm Dillane—the mastermind behi...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/the-catwalk-coups-and-the-collapse-of-the-clean-sh-1767826876770.html"
+    },
+    {
+      "id": 21,
       "title": "The Renee Paquette Paradox: Is This the Most Powerful Voice in Professional Wres",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/404/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/the-american-hegemony-is-crumbling-why-the-nwsl-is-1767654072289.html"
-    },
-    {
-      "id": 21,
-      "title": "The $1,000,000 Insurance Policy: Why Dayne St. Clair is the Only Man Who Can Sav",
-      "category": "exclusive",
-      "image": "https://i.cbc.ca/ais/10f90206-4d15-4a5a-b59b-bbcb1b2474a5,1767554749506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D620",
-      "excerpt": "Is David Beckham finally tired of watching his \"Galacticos\" get carved open like a Sunday League sid...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/the-1000000-insurance-policy-why-dayne-st-clair-is-1767643277147.html"
     }
   ]
 }
