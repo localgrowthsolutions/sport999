@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Dambulla Disaster: Can Sri Lanka’s Fragile Batting Survive the New-Look Pakistan",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/558/1600/900",
+      "excerpt": "Is the pride of the Lions officially a thing of the past? Watching the opening five overs in Dambull...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/dambulla-disaster-can-sri-lankas-fragile-batting-s-1767794503791.html"
+    },
+    {
+      "id": 21,
       "title": "The Hard Truth: Logistics in the Freezer",
       "category": "exclusive",
       "image": "https://dims.apnews.com/dims4/default/83ae539/2147483647/strip/true/crop/7578x4263+0+395/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F2c%2Fb3de400ec44e7ce27057af987763%2Fa667170b600541f3a9c59a8a05622388",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/pharaohs-under-fire-or-cheetahs-on-the-prowl-the-b-1767632459203.html"
-    },
-    {
-      "id": 21,
-      "title": "CHAOS IN THE NORTH: Donegal vs Derry Postponement Leaves Mickey Harte Fuming as ",
-      "category": "exclusive",
-      "image": "https://www.rte.ie/images/001f7009-1600.jpg",
-      "excerpt": "Who actually wins when the floodlights stay dark and the turnstiles remain bolted shut? You could sm...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/chaos-in-the-north-donegal-vs-derry-postponement-l-1767621676364.html"
     }
   ]
 }
