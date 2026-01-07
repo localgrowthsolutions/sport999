@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Beyond the Hype: Is Sri Lanka vs Pakistan the Real \"El Clasico\" of Asian Cricket",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/73/1600/900",
+      "excerpt": "Can a rivalry built on chaos, unpredictable collapses, and tactical wizardry actually surpass the co...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/beyond-the-hype-is-sri-lanka-vs-pakistan-the-real--1767805259188.html"
+    },
+    {
+      "id": 21,
       "title": "Dambulla Disaster: Can Sri Lanka’s Fragile Batting Survive the New-Look Pakistan",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/558/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/the-king-is-naked-how-a-thai-league-nobody-just-hu-1767632481268.html"
-    },
-    {
-      "id": 21,
-      "title": "PHARAOHS UNDER FIRE OR CHEETAHS ON THE PROWL? THE BRUTAL REALITY OF EGYPT VS. BE",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/439/1600/900",
-      "excerpt": "Can a dynasty survive on reputation alone? Seven Africa Cup of Nations titles sit in the trophy cabi...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/pharaohs-under-fire-or-cheetahs-on-the-prowl-the-b-1767632459203.html"
     }
   ]
 }
