@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Demond Williams Takeover: Why Washington’s Freshman Prodigy Is the Scariest ",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/879/1600/900",
+      "excerpt": "Can a backup quarterback who hasn't even seen a full season of collegiate snaps already be the most ...",
+      "date": "2026-01-07",
+      "author": "Sport999 Team",
+      "url": "/articles/the-demond-williams-takeover-why-washingtons-fresh-1767762058934.html"
+    },
+    {
+      "id": 21,
       "title": "The 30-Year Mystery: Why Modern Football Tactics Are \"Case Closed\" for the Tradi",
       "category": "exclusive",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/youtube/nUNPnKM-YUM.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-05",
       "author": "Sport999 Team",
       "url": "/articles/forget-the-script-why-postecoglous-tactical-arroga-1767600073419.html"
-    },
-    {
-      "id": 21,
-      "title": "The Red Devils' Casino: Why Ten Hag’s Tactical Anarchy is a High-Stakes Gamble U",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/a8d84da271727d6fd831f2990b7fe4f6",
-      "excerpt": "Is Old Trafford still a Theatre of Dreams, or has it become a high-volatility casino where the house...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/the-red-devils-casino-why-ten-hags-tactical-anarch-1767589273553.html"
     }
   ]
 }
