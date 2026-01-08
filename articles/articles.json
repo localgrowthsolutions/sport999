@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Is This the End of the Superstar Era? Why Bucks vs. Warriors is a Battle for NBA",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/63/1600/900",
+      "excerpt": "Can a single regular-season game tell the story of a dying era? When the Milwaukee Bucks and the Gol...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/is-this-the-end-of-the-superstar-era-why-bucks-vs--1767848458320.html"
+    },
+    {
+      "id": 21,
       "title": "The Garden Grinder: Can the Shorthanded Nuggets Survive the Celtics’ Rebound Reb",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/635/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/the-death-of-the-scout-how-samsungs-ces-2026-ai-re-1767675678578.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DEATH OF THE DYNASTY? WHY PEP’S CITY EMPIRE IS CRUMBLING INTO TACTICAL ANARC",
-      "category": "exclusive",
-      "image": "https://blog.domesoccer.jp/app/wp-content/uploads/2019/06/01-1.png?v=1767577490",
-      "excerpt": "Is the greatest era in English football history dying in front of our eyes? Five losses on the bounc...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/the-death-of-the-dynasty-why-peps-city-empire-is-c-1767664875643.html"
     }
   ]
 }
