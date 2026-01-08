@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The \"God-Tier\" Comeback: Why Bruno Mars’ 2026 Stadium Schedule is a Global Power",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/200/1600/900",
+      "excerpt": "Can any other \"player\" in the industry command a stadium-sized crowd after nearly a decade away from...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/the-god-tier-comeback-why-bruno-mars-2026-stadium--1767891668444.html"
+    },
+    {
+      "id": 21,
       "title": "IS THE SCOREBOARD DEAD? WHY SPORTS REALITY TV IS THE ONLY GAME THAT MATTERS IN 2",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/751/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/breaking-news-1767718874829.html"
-    },
-    {
-      "id": 21,
-      "title": "THE THEATRE OF MEMES: Why United’s ‘Total Verticality’ Is Tactical Suicide",
-      "category": "exclusive",
-      "image": "http://static1.squarespace.com/static/5c4b6b663c3a5399055adb5f/t/695b695f62342244b8b7fbd4/1641269505211/aimeep.ow.soccerball.jpg?format=1500w",
-      "excerpt": "How many times can you watch the same car crash before you stop looking? It took exactly fourteen mi...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/the-theatre-of-memes-why-uniteds-total-verticality-1767708075580.html"
     }
   ]
 }
