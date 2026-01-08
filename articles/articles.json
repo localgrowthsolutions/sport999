@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Microsoft’s January Transfer Window: Is Game Pass 2026 a Tactical Masterclass or",
+      "category": "transfer",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/01/january-2026-game-pass-feature.jpg?resize=2000,1125",
+      "excerpt": "Have Microsoft finally lost the dressing room, or is this the most clinical January business we’ve s...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/microsofts-january-transfer-window-is-game-pass-20-1767880878295.html"
+    },
+    {
+      "id": 21,
       "title": "The Heavyweight Title Fight for Your Attention: Why \"His & Hers\" Is the Gritty C",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/125/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/the-theatre-of-memes-why-uniteds-total-verticality-1767708075580.html"
-    },
-    {
-      "id": 21,
-      "title": "THE MARGE CAPITULATION: Why the GOP’s Star Striker Just Bottled the Biggest Game",
-      "category": "exclusive",
-      "image": "https://media.newyorker.com/photos/6945bd740790a1f266fa6e50/16:9/w_1280,c_limit/r48147.jpg",
-      "excerpt": "Is this the end of the \"Unstoppable\" era, or has the Gaffer finally realized his star player is more...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/the-marge-capitulation-why-the-gops-star-striker-j-1767697278914.html"
     }
   ]
 }
