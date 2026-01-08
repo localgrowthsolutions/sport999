@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "KANSAS CITY’S KRYPTONITE OR CROWN JEWEL? THE SHOCKING TRUTH BEHIND THE CHRIS ARM",
+      "category": "exclusive",
+      "image": "https://s.yimg.com/ny/api/res/1.2/O__h.RDZsSKuqXKOMM91lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/58bab1941a191509d2e3cb52a728d14f",
+      "excerpt": "Is this the most ambitious appointment in the history of the NWSL, or have the Kansas City Current o...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/kansas-citys-kryptonite-or-crown-jewel-the-shockin-1767902481309.html"
+    },
+    {
+      "id": 21,
       "title": "Blood, Grime, and Glory: Why the Madrid Derby Is the Only War That Matters in 20",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/337/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/the-harbaugh-resurrection-is-jims-brutal-brand-of--1767740456797.html"
-    },
-    {
-      "id": 21,
-      "title": "Breaking News",
-      "category": "exclusive",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Z4AbJ1xUOOheV7uOGbx6HQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDI7Y2Y9d2VicA--/https://media.zenfs.com/en/redding-record-searchlight/a1a5b0ea0e5a73cffdb650dd92d913cf",
-      "excerpt": "Is local sport just about participation? Tell that to the gaffer who’s just seen his midfield three ...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/breaking-news-1767729673261.html"
     }
   ]
 }
