@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "THE SICILIAN STING: WHY THE ENTIRE SPORTING WORLD IS OBSESSED WITH MARSALA 1912",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/723/1600/900",
+      "excerpt": "Is the traditional scouting network dead? Can a club buried in the salt-sprayed corners of Sicily tr...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/the-sicilian-sting-why-the-entire-sporting-world-i-1767859270339.html"
+    },
+    {
+      "id": 21,
       "title": "THE TEXOMA TACTICAL REVOLUTION: IS NORTH TEXAS THE NEW HOTBED FOR TOTAL FOOTBALL",
       "category": "exclusive",
       "image": "https://media.zenfs.com/en/kfdx_wichita_falls_articles_332/5dede1664e2e74f620d2a2d34e241a22",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/the-tactical-death-of-an-empire-why-peps-mancheste-1767686475602.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DEATH OF THE SCOUT? HOW SAMSUNG’S CES 2026 AI REVOLUTION IS ABOUT TO EMBARRA",
-      "category": "exclusive",
-      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/01/05121730/Samsung-Corporate-CES-2026-Samsung-Presents-%E2%80%98Your-Companion-to-AI-Living-at-The-First-Look_Thumb932-2.jpg",
-      "excerpt": "Has the \"eye test\" finally kicked the bucket? Last night at CES 2026, Samsung didn’t just show us a ...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/the-death-of-the-scout-how-samsungs-ces-2026-ai-re-1767675678578.html"
     }
   ]
 }
