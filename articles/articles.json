@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The 2030 Empire: Is Morocco’s “American Dream” a Tactical Masterstroke or a Cult",
+      "category": "exclusive",
+      "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260107_WST_614220_World-Cup-2026-1200x740.webp&width=1200&height=740",
+      "excerpt": "Can a nation buy its way into footballing immortality, or are the Atlas Lions about to find out that...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/the-2030-empire-is-moroccos-american-dream-a-tacti-1767837675095.html"
+    },
+    {
+      "id": 21,
       "title": "THE CATWALK COUPS AND THE COLLAPSE OF THE CLEAN SHEET: Why KidSuper’s Aussie Ope",
       "category": "exclusive",
       "image": "https://wwd.com/wp-content/uploads/2026/01/KidSuper-Australian-Open.jpg?w=1000&h=563&crop=1",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/the-death-of-the-dynasty-why-peps-city-empire-is-c-1767664875643.html"
-    },
-    {
-      "id": 21,
-      "title": "The American Hegemony is Crumbling: Why the NWSL is Losing the Tactical Arms Rac",
-      "category": "exclusive",
-      "image": "https://media.newyorker.com/photos/69583e75705bf450e431060d/16:9/w_1280,c_limit/Thomas_Rodman_GettyImages-2248144141.jpg",
-      "excerpt": "Is the United States still the Mecca of women’s football, or are we witnessing the slow, painful dec...",
-      "date": "2026-01-05",
-      "author": "Sport999 Team",
-      "url": "/articles/the-american-hegemony-is-crumbling-why-the-nwsl-is-1767654072289.html"
     }
   ]
 }
