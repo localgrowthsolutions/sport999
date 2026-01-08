@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Blood, Grime, and Glory: Why the Madrid Derby Is the Only War That Matters in 20",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/337/1600/900",
+      "excerpt": "Can a collection of individual superstars ever truly kill the spirit of a collective cult? That is t...",
+      "date": "2026-01-08",
+      "author": "Sport999 Team",
+      "url": "/articles/blood-grime-and-glory-why-the-madrid-derby-is-the--1767902460837.html"
+    },
+    {
+      "id": 21,
       "title": "THE 330-DAY DISASTERCLASS: Why Derek Sprague’s PGA Exit is Tactical Suicide for ",
       "category": "exclusive",
       "image": "https://sportshub.cbsistatic.com/i/r/2025/02/05/acd117bd-cbea-4ecf-ae85-a942c1251e99/thumbnail/1200x675/e05fdea8adad2eeea1018a6fe225a023/pga-of-america-flag-2025.png",
@@ -189,16 +199,6 @@
       "date": "2026-01-06",
       "author": "Sport999 Team",
       "url": "/articles/breaking-news-1767729673261.html"
-    },
-    {
-      "id": 21,
-      "title": "Breaking News",
-      "category": "exclusive",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/01/776316800.jpg",
-      "excerpt": "To bridge the gap between Rosemawr’s 40% financial gain and elite football analysis, I am framing th...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/breaking-news-1767718874829.html"
     }
   ]
 }
