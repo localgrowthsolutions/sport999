@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Brahim Díaz Eclipse: Is Morocco’s “Prince” Rendering the Indomitable Lions E",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/183/1600/900",
+      "excerpt": "Is it even fair anymore? When Brahim Díaz swapped the red of Spain for the green and red of Morocco,...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/the-brahim-daz-eclipse-is-moroccos-prince-renderin-1767988865872.html"
+    },
+    {
+      "id": 21,
       "title": "The $30 Million Ghost: Is Aaronson’s Leeds Redemption Just a Tactical Mirage?",
       "category": "exclusive",
       "image": "https://sbisoccer.com/wp-content/uploads/Agyemang-Aaronson.png",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-london-stadium-standoff-is-lopetegui-playing-w-1767805277042.html"
-    },
-    {
-      "id": 21,
-      "title": "Dambulla Disaster: Can Sri Lanka’s Fragile Batting Survive the New-Look Pakistan",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/558/1600/900",
-      "excerpt": "Is the pride of the Lions officially a thing of the past? Watching the opening five overs in Dambull...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/dambulla-disaster-can-sri-lankas-fragile-batting-s-1767794503791.html"
     }
   ]
 }
