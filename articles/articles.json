@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Trump 47 Era: Will the Return of the 45th President Shatter the NFL’s Neutra",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/994/1600/900",
+      "excerpt": "Can a single man redefine the culture of a multi-billion dollar shield without ever taking a snap? L...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/the-trump-47-era-will-the-return-of-the-45th-presi-1767967260459.html"
+    },
+    {
+      "id": 21,
       "title": "THE HARD TRUTH: A LEAGUE BOTTLED BY BILLIONS",
       "category": "exclusive",
       "image": "https://images.indianexpress.com/2026/01/parth-jindal.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-hard-truth-logistics-in-the-freezer-1767794476967.html"
-    },
-    {
-      "id": 21,
-      "title": "The Ashby Doctrine: 11 Years of Tactical Chaos and Why the \"Gotcha\" Moment Redef",
-      "category": "exclusive",
-      "image": "https://mixandmatchmama.com/wp-content/uploads/2026/01/Ashby2025.jpg",
-      "excerpt": "Is loyalty dead in the modern game? Look at the touchline. Look at the boardrooms. Managers are sack...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/the-ashby-doctrine-11-years-of-tactical-chaos-and--1767783675637.html"
     }
   ]
 }
