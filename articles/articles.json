@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Why Zach Bryan’s Lyrics Are The Most Dangerous Playbook In Modern Music",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/605/1600/900",
+      "excerpt": "Can a single songwriter really dismantle the polished machine of Nashville with nothing but a batter...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/why-zach-bryans-lyrics-are-the-most-dangerous-play-1767956471330.html"
+    },
+    {
+      "id": 21,
       "title": "FROM MLS TRASH TO NFL TREASURE: WHY BRANDON AUBREY IS THE ULTIMATE INDICTMENT OF",
       "category": "exclusive",
       "image": "https://s.yimg.com/ny/api/res/1.2/jFAg4KVOGQsG1a2NHJcsNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/46c98a666791dd45bea8a5191d702607",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-ashby-doctrine-11-years-of-tactical-chaos-and--1767783675637.html"
-    },
-    {
-      "id": 21,
-      "title": "The No Tail Revolution: Is Amorim Cutting the Rot or Just Rearranging Deckchairs",
-      "category": "exclusive",
-      "image": "https://0.soompi.io/wp-content/uploads/2026/01/05200549/no-tail-to-tell.jpeg",
-      "excerpt": "Can a ghost truly be exorcised if the house itself is built on a graveyard? That is the question hau...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/the-no-tail-revolution-is-amorim-cutting-the-rot-o-1767772874987.html"
     }
   ]
 }
