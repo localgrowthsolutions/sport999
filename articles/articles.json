@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The $4 Million Resurrection: Is Carson Beck Finally Worth the Price of Admission",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/847/1600/900",
+      "excerpt": "What is the price of a second chance in the modern era of college football? For Carson Beck, the ans...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/the-4-million-resurrection-is-carson-beck-finally--1767934865792.html"
+    },
+    {
+      "id": 21,
       "title": "Desert War: Can Miami’s Physical Brutality Break Lane Kiffin’s High-Octane Rebel",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/799/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/breaking-news-1767762073418.html"
-    },
-    {
-      "id": 21,
-      "title": "The 30-Year Mystery: Why Modern Football Tactics Are \"Case Closed\" for the Tradi",
-      "category": "exclusive",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/youtube/nUNPnKM-YUM.jpg",
-      "excerpt": "How can a team spend £200 million in a single summer and still look like eleven strangers who met in...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/the-30-year-mystery-why-modern-football-tactics-ar-1767751273892.html"
     }
   ]
 }
