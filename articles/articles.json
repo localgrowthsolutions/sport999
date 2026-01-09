@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Bissouma Betrayal: How Mali Handed the AFCON Semi-Final to Senegal on a Silv",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/995/1600/900",
+      "excerpt": "How does a captain, the supposed heartbeat of a nation, walk off the pitch in the 45th minute of a q...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/the-bissouma-betrayal-how-mali-handed-the-afcon-se-1767978064603.html"
+    },
+    {
+      "id": 21,
       "title": "THE HARD TRUTH: A CUP FINAL OR A COMMERCIAL CIRCUS?",
       "category": "exclusive",
       "image": "https://ds-images.bolavip.com/news/image?src=https://images.worldsoccertalk.com/webp/1200_740/WST_20260108_WST_614049_Desire-Doue.webp&width=1200&height=740",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/dambulla-disaster-can-sri-lankas-fragile-batting-s-1767794503791.html"
-    },
-    {
-      "id": 21,
-      "title": "The Hard Truth: Logistics in the Freezer",
-      "category": "exclusive",
-      "image": "https://dims.apnews.com/dims4/default/83ae539/2147483647/strip/true/crop/7578x4263+0+395/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F2c%2Fb3de400ec44e7ce27057af987763%2Fa667170b600541f3a9c59a8a05622388",
-      "excerpt": "The official word from the continent is grim. Deadly accidents in France. Travel disruptions across ...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/the-hard-truth-logistics-in-the-freezer-1767794476967.html"
     }
   ]
 }
