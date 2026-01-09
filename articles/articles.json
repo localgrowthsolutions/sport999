@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "IS TOMMY EGAN THE G.O.A.T. OR JUST A STAT-PADDER? THE FINAL SCOUTING REPORT ON P",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/985/1600/900",
+      "excerpt": "Can a man outrun the ghosts of his past while trying to build a new dynasty in the Windy City? That ...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/is-tommy-egan-the-goat-or-just-a-stat-padder-the-f-1767945661555.html"
+    },
+    {
+      "id": 21,
       "title": "1,353 NOT OUT: WHY THE XBOX 360 SQUAD COMPLETION IS THE GREATEST TACTICAL MASTER",
       "category": "exclusive",
       "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Complete-North-American-Xbox-360-Physical-Games-Collection-Image-Source-Reddit-uuncleseeth.png",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-no-tail-revolution-is-amorim-cutting-the-rot-o-1767772874987.html"
-    },
-    {
-      "id": 21,
-      "title": "Breaking News",
-      "category": "exclusive",
-      "image": "https://news.mit.edu/sites/default/files/images/202601/MIT-Sean-Luk-01-press.jpg",
-      "excerpt": "Breaking News - Latest football news and analysis from Sport999...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/breaking-news-1767762073418.html"
     }
   ]
 }
