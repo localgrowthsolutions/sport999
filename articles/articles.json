@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Max Kepler Enigma: Is Baseball’s Most Frustrating Talent About to Become a W",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/436/1600/900",
+      "excerpt": "Can a single swing of the bat define a decade? For Max Kepler, the answer is a complicated, agonizin...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/the-max-kepler-enigma-is-baseballs-most-frustratin-1767999664181.html"
+    },
+    {
+      "id": 21,
       "title": "The Youthquake at Providence Park: Why Maddie Padelski is the Crowbar to Break t",
       "category": "exclusive",
       "image": "https://s.yimg.com/ny/api/res/1.2/meT5vuOPJ.fNGlRKuqr.IA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/c75675fbef745c7edd4ac396367f568b",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-great-betrayal-how-orlando-citys-move-for-ilie-1767816074998.html"
-    },
-    {
-      "id": 21,
-      "title": "The London Stadium Standoff: Is Lopetegui Playing With Fire Against Nuno’s Count",
-      "category": "exclusive",
-      "image": "https://www.cnet.com/a/img/resize/beac69df6c641a408377d56c6b01666751acc469/hub/2026/01/05/e4470993-0c46-4cc0-86a0-e10e5267ab3e/gettyimages-2254485715.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "excerpt": "How many times can a manager stare into the abyss before he finally falls in? West Ham United curren...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/the-london-stadium-standoff-is-lopetegui-playing-w-1767805277042.html"
     }
   ]
 }
