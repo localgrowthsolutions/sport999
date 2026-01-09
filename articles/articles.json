@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Death of a Dynasty: Is Josef Martínez Still a World-Class Marksman or a Ghos",
+      "category": "exclusive",
+      "image": "https://s.yimg.com/ny/api/res/1.2/m71AtSBTlC7nRhS6NxXM9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTY7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/012f25a9926a6cb191dfbf92a7b48b37",
+      "excerpt": "How does a King lose his crown? In the summer of 2018, Josef Martínez wasn't just a striker; he was ...",
+      "date": "2026-01-09",
+      "author": "Sport999 Team",
+      "url": "/articles/the-death-of-a-dynasty-is-josef-martnez-still-a-wo-1767924075085.html"
+    },
+    {
+      "id": 21,
       "title": "Minneapolis on the Brink: Why the Identification of Jonathan Ross Just Re-Ignite",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/718/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-30-year-mystery-why-modern-football-tactics-ar-1767751273892.html"
-    },
-    {
-      "id": 21,
-      "title": "THE DEATH OF DOGMA: WHY PEP’S TACTICAL ARROGANCE HAS TURNED THE ETIHAD INTO A TH",
-      "category": "exclusive",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/california-post-1-split.jpg",
-      "excerpt": "The primary challenge is merging the news of a California-based newspaper launch (California Post) w...",
-      "date": "2026-01-06",
-      "author": "Sport999 Team",
-      "url": "/articles/the-death-of-dogma-why-peps-tactical-arrogance-has-1767740479450.html"
     }
   ]
 }
