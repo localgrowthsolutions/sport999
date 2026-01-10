@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Is the Pinstripe Shield Cracking? The Collision of Aaron Judge and the Trump Orb",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/476/1600/900",
+      "excerpt": "Can the most storied franchise in professional sports survive the loudest political megaphone in Ame...",
+      "date": "2026-01-10",
+      "author": "Sport999 Team",
+      "url": "/articles/is-the-pinstripe-shield-cracking-the-collision-of--1768053665677.html"
+    },
+    {
+      "id": 21,
       "title": "THE JANUARY MASSACRE: Why Modern Gaffers Are Killing The Beautiful Game’s Soul",
       "category": "exclusive",
       "image": "https://s.yimg.com/ny/api/res/1.2/78iqTFhuiCJQnfeq7vGGRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDg1O2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/1ad8c56a4e674951ed3944fcf24e23c5",
@@ -189,16 +199,6 @@
       "date": "2026-01-08",
       "author": "Sport999 Team",
       "url": "/articles/uconns-big-east-dynasty-or-providences-ambush-the--1767859275723.html"
-    },
-    {
-      "id": 21,
-      "title": "THE TEXOMA TACTICAL REVOLUTION: IS NORTH TEXAS THE NEW HOTBED FOR TOTAL FOOTBALL",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/kfdx_wichita_falls_articles_332/5dede1664e2e74f620d2a2d34e241a22",
-      "excerpt": "Have we finally reached the point where a cold Tuesday night in Wichita Falls demands the same tacti...",
-      "date": "2026-01-08",
-      "author": "Sport999 Team",
-      "url": "/articles/the-texoma-tactical-revolution-is-north-texas-the--1767848475917.html"
     }
   ]
 }
