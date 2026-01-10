@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The LinkedIn Legend: How Fernando Mendoza Broke College Football and Indiana’s G",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/356/1600/900",
+      "excerpt": "Is it possible for a quarterback to be too professional for college football? Ask the defenses of th...",
+      "date": "2026-01-10",
+      "author": "Sport999 Team",
+      "url": "/articles/the-linkedin-legend-how-fernando-mendoza-broke-col-1768021265634.html"
+    },
+    {
+      "id": 21,
       "title": "The Crimson Takeover: How Indiana Football Murdered the \"Basketball School\" Myth",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/397/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-07",
       "author": "Sport999 Team",
       "url": "/articles/the-catwalk-coups-and-the-collapse-of-the-clean-sh-1767826876770.html"
-    },
-    {
-      "id": 21,
-      "title": "The Renee Paquette Paradox: Is This the Most Powerful Voice in Professional Wres",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/404/1600/900",
-      "excerpt": "Why is a woman who has never taken a bump in a ring the most influential figure in the industry toda...",
-      "date": "2026-01-07",
-      "author": "Sport999 Team",
-      "url": "/articles/the-renee-paquette-paradox-is-this-the-most-powerf-1767826856391.html"
     }
   ]
 }
