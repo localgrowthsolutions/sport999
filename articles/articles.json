@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Billion-Pound Machine Meets The Grecians: Why Man City vs. Exeter City is th",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/292/1600/900",
+      "excerpt": "Can a squad worth over a billion dollars truly feel fear when facing a team whose entire stadium fit...",
+      "date": "2026-01-10",
+      "author": "Sport999 Team",
+      "url": "/articles/the-billion-pound-machine-meets-the-grecians-why-m-1768064462012.html"
+    },
+    {
+      "id": 21,
       "title": "AZTECA ANARCHY: WHY THE CLUB AMÉRICA DYNASTY IS CRUMBLING UNDER JARDINE’S TACTIC",
       "category": "exclusive",
       "image": "https://www.salon.com/app/uploads/2026/01/ICE-protest-2254726885.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-08",
       "author": "Sport999 Team",
       "url": "/articles/the-heavyweight-title-fight-for-your-attention-why-1767870076782.html"
-    },
-    {
-      "id": 21,
-      "title": "UConn’s Big East Dynasty or Providence’s Ambush? The Tactical War for Supremacy",
-      "category": "exclusive",
-      "image": "https://media.zenfs.com/en/the_sporting_news_articles_584/35bc0e4acb711f18e70fe3dd37597fce",
-      "excerpt": "Can anyone actually stop the Dan Hurley machine, or is the Big East already a one-horse race? That i...",
-      "date": "2026-01-08",
-      "author": "Sport999 Team",
-      "url": "/articles/uconns-big-east-dynasty-or-providences-ambush-the--1767859275723.html"
     }
   ]
 }
