@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Hard Truth: A Club That Refuses to Heal",
+      "category": "exclusive",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/08/162ad03d-0cad-4f8b-9e19-c9b79bb3289d/thumbnail/1200x630/2ffd24a0c97fcbfbf9a2aaae7935a7a0/enough-cover-avid-reader-press-1280.jpg",
+      "excerpt": "In her book Enough, Dr. Jastreboff explains that the brain often fights against weight loss because ...",
+      "date": "2026-01-10",
+      "author": "Sport999 Team",
+      "url": "/articles/the-hard-truth-a-club-that-refuses-to-heal-1768064474620.html"
+    },
+    {
+      "id": 21,
       "title": "The Billion-Pound Machine Meets The Grecians: Why Man City vs. Exeter City is th",
       "category": "exclusive",
       "image": "https://picsum.photos/seed/292/1600/900",
@@ -189,16 +199,6 @@
       "date": "2026-01-08",
       "author": "Sport999 Team",
       "url": "/articles/is-the-scoreboard-dead-why-sports-reality-tv-is-th-1767880885920.html"
-    },
-    {
-      "id": 21,
-      "title": "The Heavyweight Title Fight for Your Attention: Why \"His & Hers\" Is the Gritty C",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/125/1600/900",
-      "excerpt": "Can two elite players share the same court without one of them ending up in the locker room with a c...",
-      "date": "2026-01-08",
-      "author": "Sport999 Team",
-      "url": "/articles/the-heavyweight-title-fight-for-your-attention-why-1767870076782.html"
     }
   ]
 }
