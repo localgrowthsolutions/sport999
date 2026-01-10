@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "Celtic’s £5m Canadian Coup: Why Niko Sigur Is The Missing Piece In Brendan Rodge",
+      "category": "exclusive",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vVnxIbMOUMH47SC7GpThFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI7Y2Y9d2VicA--/https://media.zenfs.com/en/the_4th_official_articles_868/1d305bea6aa447510b0d46cd9d1583ef",
+      "excerpt": "Is Brendan Rodgers finally building a squad capable of surviving the Champions League shark tank, or...",
+      "date": "2026-01-10",
+      "author": "Sport999 Team",
+      "url": "/articles/celtics-5m-canadian-coup-why-niko-sigur-is-the-mis-1768075275437.html"
+    },
+    {
+      "id": 21,
       "title": "The Hard Truth: A Club That Refuses to Heal",
       "category": "exclusive",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/08/162ad03d-0cad-4f8b-9e19-c9b79bb3289d/thumbnail/1200x630/2ffd24a0c97fcbfbf9a2aaae7935a7a0/enough-cover-avid-reader-press-1280.jpg",
@@ -189,16 +199,6 @@
       "date": "2026-01-08",
       "author": "Sport999 Team",
       "url": "/articles/the-330-day-disasterclass-why-derek-spragues-pga-e-1767891677030.html"
-    },
-    {
-      "id": 21,
-      "title": "IS THE SCOREBOARD DEAD? WHY SPORTS REALITY TV IS THE ONLY GAME THAT MATTERS IN 2",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/751/1600/900",
-      "excerpt": "When was the last time you watched a game without checking a player’s Instagram stories first? If yo...",
-      "date": "2026-01-08",
-      "author": "Sport999 Team",
-      "url": "/articles/is-the-scoreboard-dead-why-sports-reality-tv-is-th-1767880885920.html"
     }
   ]
 }
