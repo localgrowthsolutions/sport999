@@ -2,6 +2,16 @@
   "articles": [
     {
       "id": 21,
+      "title": "The Gauff Era Is No Longer A Dream—It’s A Hostile Takeover Of Women’s Tennis",
+      "category": "exclusive",
+      "image": "https://picsum.photos/seed/174/1600/900",
+      "excerpt": "Can any single player actually survive the psychological warfare of a Coco Gauff backhand? Better ye...",
+      "date": "2026-01-10",
+      "author": "Sport999 Team",
+      "url": "/articles/the-gauff-era-is-no-longer-a-dreamits-a-hostile-ta-1768042868677.html"
+    },
+    {
+      "id": 21,
       "title": "The Madrid Vendetta: Why Simeone’s Obsession with Vinicius Jr. is Killing the De",
       "category": "exclusive",
       "image": "https://s.yimg.com/ny/api/res/1.2/GNuwSVO3sPk8W54A2gF.4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzE7Y2Y9d2VicA--/https://media.zenfs.com/en/onefootball_articles_802/fc3c217f2531de9f9554040d8d9ed5bb",
@@ -189,16 +199,6 @@
       "date": "2026-01-08",
       "author": "Sport999 Team",
       "url": "/articles/the-texoma-tactical-revolution-is-north-texas-the--1767848475917.html"
-    },
-    {
-      "id": 21,
-      "title": "The Garden Grinder: Can the Shorthanded Nuggets Survive the Celtics’ Rebound Reb",
-      "category": "exclusive",
-      "image": "https://picsum.photos/seed/635/1600/900",
-      "excerpt": "Ninety to ninety. Six minutes and fifty seconds on the clock. The TD Garden is a pressurized vessel ...",
-      "date": "2026-01-08",
-      "author": "Sport999 Team",
-      "url": "/articles/the-garden-grinder-can-the-shorthanded-nuggets-sur-1767837692514.html"
     }
   ]
 }
